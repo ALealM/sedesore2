@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32.384998mm"
+   height="32.384998mm"
+   viewBox="0 0 32.384998 32.384998"
+   version="1.1"
+   id="svg7173"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="programa8.svg">
+  <defs
+     id="defs7167">
+    <linearGradient
+       id="XMLID_363_"
+       gradientUnits="userSpaceOnUse"
+       x1="452.04169"
+       y1="224.7487"
+       x2="574.40997"
+       y2="224.7487"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-60.944884,80.310031)">
+      <stop
+         offset="0"
+         style="stop-color:#010101"
+         id="stop5868" />
+      <stop
+         offset="0.2327"
+         style="stop-color:#1A1B1A"
+         id="stop5870" />
+      <stop
+         offset="0.5654"
+         style="stop-color:#2E2E2E"
+         id="stop5872" />
+      <stop
+         offset="0.833"
+         style="stop-color:#393938"
+         id="stop5874" />
+      <stop
+         offset="1"
+         style="stop-color:#3D3D3C"
+         id="stop5876" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="178.34286"
+     inkscape:cy="26.914268"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7170">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.646786,-123.5694)">
+    <path
+       id="XMLID_351_"
+       class="st86"
+       d="m 74.839286,155.9544 c -8.916459,0 -16.1925,-7.24958 -16.1925,-16.1925 0,-8.91645 7.249583,-16.1925 16.1925,-16.1925 8.916458,0 16.1925,7.24959 16.1925,16.1925 0,8.94292 -7.249583,16.1925 -16.1925,16.1925 z"
+       inkscape:connector-curvature="0"
+       style="fill:url(#XMLID_363_);stroke-width:0.26458332" />
+    <g
+       id="XMLID_323_"
+       transform="matrix(0.26458333,0,0,0.26458333,-60.944884,80.31003)">
+      <path
+         id="XMLID_346_"
+         class="st87"
+         d="m 477.2,219.6 c 0,0 -2,2.1 -2.9,-2.9 -1,-5.3 -1,-8.2 0.8,-8.9 1.2,-0.4 1.5,0.6 1.5,0.6 z"
+         inkscape:connector-curvature="0"
+         style="opacity:0.8;fill:#e6e7e8" />
+      <path
+         id="XMLID_345_"
+         class="st74"
+         d="m 481.2,227.1 v 3.8 c 0,1.4 0.6,2.7 1.7,3.5 l 3.3,2.7 c 1.7,1.4 4.1,1.4 5.8,0 l 3.3,-2.7 c 1.1,-0.9 1.7,-2.2 1.7,-3.6 v -4.1 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         id="XMLID_342_"
+         class="st82"
+         d="m 481.2,229.9 c 2.1,2.4 4.8,3.6 7.7,3.6 3.1,0 5.9,-1.4 8.1,-4 v -2.8 l -15.8,0.4 z"
+         inkscape:connector-curvature="0"
+         style="fill:#d1d3d4" />
+      <path
+         id="XMLID_340_"
+         class="st79"
+         d="m 489,231.6 c 7.2,0 12.7,-7.6 12.7,-20.1 0,-15.6 -4.6,-19.2 -12.7,-19.2 -8.2,0 -12.7,3.6 -12.7,19.2 -0.1,12.6 5.5,20.1 12.7,20.1 z"
+         inkscape:connector-curvature="0"
+         style="fill:#e6e7e8" />
+      <path
+         id="XMLID_339_"
+         class="st87"
+         d="m 500.9,219.6 c 0,0 2,2.1 2.9,-2.9 1,-5.3 1,-8.2 -0.8,-8.9 -1.2,-0.4 -1.5,0.6 -1.5,0.6 z"
+         inkscape:connector-curvature="0"
+         style="opacity:0.8;fill:#e6e7e8" />
+      <path
+         id="XMLID_338_"
+         class="st74"
+         d="m 489.1,192.3 v 39.3 c 7.1,-0.1 12.6,-7.6 12.6,-20.1 0,-15.4 -4.5,-19.1 -12.6,-19.2 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         id="XMLID_337_"
+         class="st74"
+         d="M 477.2,236.4 467,243 c -1,0.6 -1.7,1.6 -1.9,2.7 l -2.2,8.7 H 489 v -16.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <polygon
+         id="XMLID_333_"
+         class="st88"
+         points="477.2,236.4 484.9,244 489,237.9 481.3,230.6 480.4,230.6 "
+         style="fill:#f1f0f0" />
+      <path
+         id="XMLID_332_"
+         class="st74"
+         d="m 500.7,236.4 10.2,6.6 c 1,0.6 1.7,1.6 1.9,2.7 l 2.2,8.7 h -26 v -16.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <polygon
+         id="XMLID_327_"
+         class="st88"
+         points="500.7,236.4 493.1,244 489,237.9 496.7,230.6 497.5,230.6 "
+         style="fill:#f1f0f0" />
+      <path
+         id="XMLID_326_"
+         class="st89"
+         d="m 476.2,211.6 c 0,0 -3.2,-1.9 -1,-10.9 1.4,-5.9 5.2,-5.6 5.2,-5.6 0,0 -3.7,6 -4.2,16.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:#969696" />
+      <path
+         id="XMLID_325_"
+         class="st89"
+         d="m 501.7,211.6 c 0,0 3.2,-1.9 1,-10.9 -1.4,-5.9 -5.2,-5.6 -5.2,-5.6 0,0 3.8,6 4.2,16.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:#969696" />
+    </g>
+    <g
+       id="XMLID_305_"
+       transform="matrix(0.26458333,0,0,0.26458333,-60.944884,80.31003)">
+      <g
+         id="XMLID_313_">
+        <path
+           id="XMLID_322_"
+           class="st74"
+           d="m 542.4,241.1 7.2,-5.7 c 0,0 -1,-1.4 -1.5,-5.7 h -5.7 v 0 h -5.7 c -0.4,4.3 -1.5,5.7 -1.5,5.7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           id="XMLID_320_"
+           class="st82"
+           d="m 548.1,229.8 h -5.7 v 0 h -5.7 c 0,0.4 -0.1,0.8 -0.2,1.2 1.7,1.4 3.7,2.1 5.8,2.1 2.1,0 4.1,-0.7 5.8,-2.1 0.1,-0.4 0.1,-0.8 0,-1.2 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d1d3d4" />
+        <path
+           id="XMLID_319_"
+           class="st90"
+           d="m 531.5,220.5 c 0,0 -1.8,1.9 -2.7,-2.7 -0.9,-5 -0.9,-7.7 0.8,-8.2 1.1,-0.4 1.4,0.6 1.4,0.6 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.8;fill:#e6e7e8;stroke:#e6e7e8;stroke-miterlimit:10" />
+        <path
+           id="XMLID_318_"
+           class="st79"
+           d="m 542.4,231.7 c 6.7,0 11.8,-7 11.8,-18.6 0,-14.5 -4.3,-17.9 -11.8,-17.9 -7.6,0 -11.8,3.4 -11.8,17.9 0,11.6 5.1,18.6 11.8,18.6 z"
+           inkscape:connector-curvature="0"
+           style="fill:#e6e7e8" />
+        <path
+           id="XMLID_316_"
+           class="st87"
+           d="m 553.5,220.5 c 0,0 1.8,1.9 2.7,-2.7 0.9,-5 0.9,-7.7 -0.8,-8.2 -1.1,-0.4 -1.4,0.6 -1.4,0.6 z"
+           inkscape:connector-curvature="0"
+           style="opacity:0.8;fill:#e6e7e8" />
+        <path
+           id="XMLID_315_"
+           class="st74"
+           d="m 542.6,195.2 v 36.5 c 6.6,-0.1 11.7,-7.1 11.7,-18.6 0,-14.4 -4.2,-17.8 -11.7,-17.9 z"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+      <path
+         id="XMLID_312_"
+         class="st89"
+         d="m 542.3,192.2 c -13.5,0 -14.5,13.2 -13.9,18 0.3,2.4 2.2,4.7 2.2,4.7 0,0 0.5,-6.5 4.7,-8.3 4.2,-1.8 10.3,-0.9 13.3,-5.3 3.5,5.3 5,7.5 5.7,13.6 3.8,-4.1 6.9,-22.6 -12,-22.7 z"
+         inkscape:connector-curvature="0"
+         style="fill:#969696" />
+      <ellipse
+         id="XMLID_310_"
+         class="st89"
+         cx="542.29999"
+         cy="192.2"
+         rx="7.5999999"
+         ry="4.5999999"
+         style="fill:#969696" />
+      <path
+         id="XMLID_309_"
+         class="st74"
+         d="m 566.4,254.4 -3.2,-9.1 c -0.3,-1 -1,-1.8 -2,-2.3 l -7.4,-4.1 -11.6,-0.1 v 0 0 0 0 l -11.6,0.1 -7.4,4.1 c -0.9,0.5 -1.6,1.3 -2,2.3 l -3.2,9.1 h 24.1 v 0 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         id="XMLID_307_"
+         class="st88"
+         d="m 535.1,233.9 -4.7,4.3 c 0,0 4.9,12 11.8,0.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:#f1f0f0" />
+      <path
+         id="XMLID_306_"
+         class="st88"
+         d="m 549.5,233.9 4.7,4.3 c 0,0 -4.9,12 -11.8,0.5 z"
+         inkscape:connector-curvature="0"
+         style="fill:#f1f0f0" />
+    </g>
+  </g>
+</svg>

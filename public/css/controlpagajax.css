@@ -1,0 +1,28 @@
+/* 
+    Created on : 19/11/2015, 07:13:48 pm
+    Author     : ray
+*/
+
+.pagAjax{
+    min-height: 500px;
+    text-align: center;
+}
+
+#pagAjax_controles{
+    height: 15px;
+    margin: 0px;
+}
+
+#pagAjax_data{
+    margin: 0px;
+    padding-top: 10px; 
+    
+}
+
+.pagAjax table{
+    text-align: left;
+}
+.pagAjax table thead{
+    background-color:#CCCCCC;
+}
+
