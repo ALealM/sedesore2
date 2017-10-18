@@ -1261,7 +1261,7 @@ $(document).ready(function(){
     } 
     function hidenames(id,id2){ 
         $('#'+id).attr('style','display:none'); 
-        $('#'+id2).attr('fill-opacity','1.0');
+        $('#'+id2).removeAttr('fill-opacity');
     }
 
 
