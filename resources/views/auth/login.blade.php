@@ -154,7 +154,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5438" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion5440"><rect id="rect5442" y="565.45" width="91" x="257" height="53"/></flowRegion><flowPara id="flowPara5444">VILLA DE L</flowPara></flowRoot>
-  <g id="g6688" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute('fill-opacity','1.0'); hidenames('title1');" onmouseover="setAttribute('fill-opacity','0.7'); shownames('title1');">
+  <g id="g6688" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="hidenames('title1');setAttribute('fill-opacity','1.0'); " onmouseover="shownames('title1');"setAttribute('fill-opacity','0.7'); >
    <desc id="desc6707">MICROREGION CENTRO SUR</desc>
    <title id="title6705">MICROREGION CENTRO SUR</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke-linecap="round" stroke-width="3" fill="#e74c3c">
