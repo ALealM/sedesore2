@@ -92,17 +92,6 @@ div {
       <div class="container">
         <div class="row">
           <div class="col-sm-8 py-4">
-            <h4 class="text-white">About</h4>
-            <p class="text-muted">Add some information about the album below, the author, or any other background context. Make it a few sentences long so folks can pick up some informative tidbits. Then, link them off to some social networking sites or contact information.</p>
-          </div>
-          <div class="col-sm-4 py-4">
-            <h4 class="text-white">Contact</h4>
-            <ul class="list-unstyled">
-              <li><a href="#" class="text-white">Follow on Twitter</a></li>
-              <li><a href="#" class="text-white">Like on Facebook</a></li>
-              <li><a href="#" class="text-white">Email me</a></li>
-            </ul>
-=======
             <h4 class="text-white">ACERCA</h4>
             <p class="text-muted">Información relativa al proyecto</p>
           </div>
@@ -110,21 +99,15 @@ div {
             <h4 class="text-white">CONTACTO</h4>
             <ul class="list-unstyled">
               <li><a href="#" class="text-white">correo@email.com</a></li>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
           </div>
         </div>
       </div>
     </div>
     <div class="navbar navbar-dark bg-dark">
-<<<<<<< HEAD
-      <div class="container d-flex justify-content-between">
-        <a href="#" class="navbar-brand">Página</a>
-=======
         <div class="container d-flex justify-content-between">
             <span>
                 <a href="#" class="navbar-brand"><img src="PM/prosperemos2.png" width="10%" height="auto" style="display: inline-block;">  <span style="color:#fff;">Proyectos Microregionales</span></a>
             </span>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -132,14 +115,9 @@ div {
     </div>
 
       <section class="jumbotron text-center">
-<<<<<<< HEAD
-       <div>
-<svg id="svg2259" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" sodipodi:docname="San_Luis_Potosi_microregiones4.svg" height="828.59" sodipodi:version="0.32" width="1200" version="1.0" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
-=======
           <div class="containersvg">
               
 <svg id="svg2259" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" sodipodi:docname="San_Luis_Potosi_microregiones4.svg" sodipodi:version="0.32" version="1.0" inkscape:output_extension="org.inkscape.output.svg.inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.91 r13725" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" viewBox="0 0 1200 828">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
  <sodipodi:namedview id="base" fit-margin-left="0" inkscape:zoom="0.22" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="318.7276" inkscape:cy="445.56116" inkscape:snap-grids="true" inkscape:window-maximized="1" showgrid="false" fit-margin-right="0" inkscape:guide-bbox="true" showguides="true" bordercolor="#666666" inkscape:window-x="0" inkscape:window-y="1" fit-margin-bottom="0" inkscape:window-width="1440" inkscape:pageopacity="0.0" inkscape:pageshadow="2" pagecolor="#ffffff" inkscape:snap-to-guides="true" inkscape:document-units="px" inkscape:window-height="812" fit-margin-top="0">
   <sodipodi:guide id="guide13831" position="-389.8301,1471.928" orientation="0,1"/>
   <sodipodi:guide id="guide13833" position="-1112.8301,1380.928" orientation="1,0"/>
@@ -149,13 +127,8 @@ div {
  <g id="layer1" transform="translate(-609.35 -839.05)" inkscape:groupmode="layer" inkscape:label="Capa 1">
   <g>
    <rect id="rect221" height="827.47" width="1199" stroke="#7c7c7c" stroke-dasharray="1.04322394, 2.08644788" y="839.65" x="609.87" stroke-width="1.0432" fill="#ecf0f1">
-<<<<<<< HEAD
-    <desc id="desc7326">FONDO GRIS</desc>
-    <title id="title7324">FONDO GRIS</title>
-=======
     <!--<desc id="desc7326">FONDO GRIS</desc>
     <title id="title7324">FONDO GRIS</title>-->
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    </rect>
    <path id="path2238" d="m1065 1343.4-0.5596 0.093c0.023 0.1776-0.1266 0.3999-0.047 0.5596 0.057 0.1147 0.4093-0.4258 0.6062-0.6529z" fill-rule="evenodd" inkscape:connector-curvature="0" stroke="#646464" stroke-width=".33134" fill="#fefee9"/>
    <path id="path2199" d="m1130.5 1362.6-1.2124 0.3264c-0.1845 0.1847-0.2837 0.1826-0.4197 0.2799 0.3875-0.032 0.8917-0.068 1.2591-0.1865 0.2486-0.08 0.2886-0.2592 0.373-0.4198z" fill-rule="evenodd" inkscape:connector-curvature="0" stroke="#646464" stroke-width=".33134" fill="#fefee9"/>
@@ -181,11 +154,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5438" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion5440"><rect id="rect5442" y="565.45" width="91" x="257" height="53"/></flowRegion><flowPara id="flowPara5444">VILLA DE L</flowPara></flowRoot>
-<<<<<<< HEAD
-  <g id="g6688" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
   <g id="g6688" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title1');" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title1');">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6707">MICROREGION CENTRO SUR</desc>
    <title id="title6705">MICROREGION CENTRO SUR</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke-linecap="round" stroke-width="3" fill="#e74c3c">
@@ -200,11 +169,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5582" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion5584"><rect id="rect5586" y="1539.5" width="136" x="586" height="108"/></flowRegion><flowPara id="flowPara5588">VILLAJUAREZVIVI</flowPara></flowRoot>
-<<<<<<< HEAD
-  <g id="g6709" data-toggle="modal" data-target="#myModal4" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
   <g id="g6709" data-toggle="modal" data-target="#myModal4" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title2')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title2')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6746">MICROREGION MEDIA OESTE</desc>
    <title id="title6744">MICROREGION MEDIA OESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#8e44ad">
@@ -229,11 +194,7 @@ div {
    <flowRoot id="flowRoot5648" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%"><flowRegion id="flowRegion5650"><rect id="rect5652" y="1767.5" width="156" x="944" height="50"/></flowRegion><flowPara id="flowPara5654">CARDENAS</flowPara></flowRoot>
    <flowRoot id="flowRoot5672" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%"><flowRegion id="flowRegion5674"><rect id="rect5676" y="2035.5" width="164" x="964" height="50"/></flowRegion><flowPara id="flowPara5678">LAGUNILLAS</flowPara></flowRoot>
   </g>
-<<<<<<< HEAD
-  <g id="g6748" data-toggle="modal" data-target="#myModal5" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
   <g id="g6748" data-toggle="modal" data-target="#myModal5" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title3')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title3')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6783">MICROREGION MEDIA ESTE</desc>
    <title id="title6781">MICROREGION MEDIA ESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#1abc9c">
@@ -254,11 +215,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5748" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion5750"><rect id="rect5752" y="1977.5" width="188" x="1322" height="72"/></flowRegion><flowPara id="flowPara5754">AQUISMON</flowPara></flowRoot>
-<<<<<<< HEAD
-  <g id="g6785" data-toggle="modal" data-target="#myModal6" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
   <g id="g6785"  data-toggle="modal" data-target="#myModal6" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title4')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title4')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6825">MICROREGION HUASTECA NORTE</desc>
    <title id="title6823">MICROREGION HUASTECA NORTE</title>
    <g fill-rule="evenodd" stroke="#fff" stroke-width="3" fill="#27ae60">
@@ -284,11 +241,7 @@ div {
     </g>
    </g>
   </g>
-<<<<<<< HEAD
-  <g id="g6895" data-toggle="modal" data-target="#myModal7" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
   <g id="g6895" data-toggle="modal" data-target="#myModal7" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title5')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title5')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6929">MICROREGION HUASTECA CENTRO</desc>
    <title id="title6927">MICROREGION HUASTECA CENTRO</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#2980b9">
@@ -309,11 +262,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5998" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion6000"><rect id="rect6002" y="1529.5" width="187" x="282" height="126"/></flowRegion><flowPara id="flowPara6004">ARMADILLOAR</flowPara></flowRoot>
-<<<<<<< HEAD
-  <g id="g6622" data-toggle="modal" data-target="#myModal3" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
   <g id="g6622" data-toggle="modal" data-target="#myModal3" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title6')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title6')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6669">MICROREGION CENTRO</desc>
    <title id="title6667">MICROREGION CENTRO</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#c0392b">
@@ -360,21 +309,12 @@ div {
    </g>
   </g>
   <g id="g6461" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-<<<<<<< HEAD
-   <desc id="desc6471">TITULO ALTIPLANO OESTE</desc>
-   <title id="title6469">TITULO ALTIPLANO OESTE</title>
-   <text id="text7805" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" y="618.66522" x="13.920341" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7807" sodipodi:role="line" font-size="40px" font-weight="bold" y="618.66522" x="13.920341" font-family="sans-serif"><tspan id="tspan7809" line-height="125%" y="618.66522" x="13.920341">MICROREGION</tspan><tspan id="tspan7811" line-height="125%" dx="0" y="618.66522" x="335.79535"/></tspan><tspan id="tspan7813" sodipodi:role="line" x="13.920341" y="668.66522"><tspan id="tspan7815" font-weight="bold" font-size="40px" line-height="125%" y="668.66522" x="13.920341" font-family="sans-serif">ALTIPLANO OESTE</tspan></tspan></text>
-   <rect id="rect6160" stroke-linejoin="round" height="79.56" width="29.56" stroke="#7c7c7c" stroke-linecap="round" y="586.78" x="-37.803" stroke-width="2.4396" fill="#f39c12"/>
-  </g>
-  <g id="g6569" data-toggle="modal" data-target="#myModal1" onclick="" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
    <desc id="desc6471">ALTIPLANO OESTE</desc>
    <title id="title6469">ALTIPLANO OESTE</title>
    <text id="text7805" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" y="618.66522" x="13.920341" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7807" sodipodi:role="line" font-size="40px" font-weight="bold" y="618.66522" x="13.920341" font-family="sans-serif"><tspan id="tspan7809" line-height="125%" y="618.66522" x="13.920341">MICROREGION</tspan><tspan id="tspan7811" line-height="125%" dx="0" y="618.66522" x="335.79535"/></tspan><tspan id="tspan7813" sodipodi:role="line" x="13.920341" y="668.66522"><tspan id="tspan7815" font-weight="bold" font-size="40px" line-height="125%" y="668.66522" x="13.920341" font-family="sans-serif">ALTIPLANO OESTE</tspan></tspan></text>
    <rect id="rect6160" stroke-linejoin="round" height="79.56" width="29.56" stroke="#7c7c7c" stroke-linecap="round" y="586.78" x="-37.803" stroke-width="2.4396" fill="#f39c12"/>
   </g>
   <g id="g6569" data-toggle="modal" data-target="#myModal1" onclick="" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title7')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title7')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6588">MICROREGION ALTIPLANO OESTE</desc>
    <title id="title6586">MICROREGION ALTIPLANO OESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#f39c12">
@@ -388,11 +328,7 @@ div {
     <text id="text7483" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" y="1334.6605" x="317.28421" sodipodi:linespacing="125%"><tspan id="tspan7485" sodipodi:role="line" x="317.28421" y="1334.6605"><tspan id="tspan7487" y="1334.6605" x="317.28421" font-size="27.5px">SALINAS</tspan></tspan></text>
    </g>
   </g>
-<<<<<<< HEAD
-  <g id="g6590" data-toggle="modal" data-target="#myModal2" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
   <g id="g6590" data-toggle="modal" data-target="#myModal2" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title8')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title8')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6620">MICROREGION ALTIPLANO CENTRO</desc>
    <title id="title6618">MICROREGION ALTIPLANO CENTRO</title>
    <g fill-rule="evenodd" stroke="#fff" fill="#d35400">
@@ -412,11 +348,7 @@ div {
     <text id="text7443" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" y="1371.6605" x="898.28418" sodipodi:linespacing="125%"><tspan id="tspan7445" sodipodi:role="line" x="898.28418" y="1371.6605"><tspan id="tspan7447" y="1371.6605" x="898.28418" font-size="27.5px">VILLA DE </tspan></tspan><tspan id="tspan7449" sodipodi:role="line" x="898.28418" y="1406.0355"><tspan id="tspan7451" y="1406.0355" x="898.28418" font-size="27.5px">ARISTA</tspan></tspan></text>
    </g>
   </g>
-<<<<<<< HEAD
-  <g id="g6408" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onclick="" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
   <g id="g6408" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title9')" onclick="" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title9')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc6447">MICROREGION ALTIPLANO ESTE</desc>
    <title id="title6445">MICROREGION ALTIPLANO ESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#e67e22">
@@ -440,60 +372,30 @@ div {
    </g> 
   </g>
   <g id="g6449" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-<<<<<<< HEAD
-   <desc id="desc6459">TITULO ALTIPLANO ESTE</desc>
-   <title id="title6457">TITULO ALTIPLANO ESTE</title>
-=======
    <desc id="desc6459">ALTIPLANO ESTE</desc>
    <title id="title6457">ALTIPLANO ESTE</title>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <text id="text7817" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="620.66492" x="1297.3755" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7819" sodipodi:role="line" x="1297.3755" y="620.66492"><tspan id="tspan7821" y="620.66492" x="1297.3755">MICROREGION</tspan><tspan id="tspan7823" y="620.66492" x="1619.2505" dx="0"/></tspan><tspan id="tspan7825" sodipodi:role="line" x="1297.3755" y="670.66492"><tspan id="tspan7827" y="670.66492" x="1297.3755">ALTIPLANO ESTE</tspan></tspan></text>
    <rect id="rect6188" stroke-linejoin="round" height="79.527" width="29.527" stroke="#7c7c7c" stroke-linecap="round" y="588.79" x="1242.2" stroke-width="2.4728" fill="#e67e22"/>
   </g>
   <g id="g6557" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-<<<<<<< HEAD
-   <desc id="desc6567">TITULO MEDIA ESTE</desc>
-   <title id="title6565">TITULO MEDIA ESTE</title>
-=======
    <desc id="desc6567">MEDIA ESTE</desc>
    <title id="title6565">MEDIA ESTE</title>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <text id="text7829" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="1217.0293" x="1569.011" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7831" sodipodi:role="line" x="1569.011" y="1217.0293"><tspan id="tspan7833" y="1217.0293" x="1569.011">MICROREGION</tspan><tspan id="tspan7835" y="1217.0293" x="1890.886" dx="0"/></tspan><tspan id="tspan7837" sodipodi:role="line" x="1569.011" y="1267.0293"><tspan id="tspan7839" y="1267.0293" x="1569.011">MEDIA ESTE</tspan></tspan></text>
    <rect id="rect6194" stroke-linejoin="round" height="79.634" width="29.634" stroke="#7c7c7c" stroke-linecap="round" y="1186.7" x="1516.2" stroke-width="2.3662" fill="#1abc9c"/>
   </g>
   <g id="g6545" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-<<<<<<< HEAD
-   <desc id="desc6555">TITULO HUASTECA NORTE</desc>
-   <title id="title6553">TITULO HUASTECA NORTE</title>
-=======
    <desc id="desc6555">HUASTECA NORTE</desc>
    <title id="title6553">HUASTECA NORTE</title>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <text id="text7841" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="1424.6648" x="2119.7388" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7843" sodipodi:role="line" x="2119.7388" y="1424.6648"><tspan id="tspan7845" y="1424.6648" x="2119.7388">MICROREGION</tspan><tspan id="tspan7847" y="1424.6648" x="2441.6138" dx="0"/></tspan><tspan id="tspan7849" sodipodi:role="line" x="2119.7388" y="1474.6648"><tspan id="tspan7851" y="1474.6648" x="2119.7388">HUASTECA NORTE</tspan></tspan></text>
    <rect id="rect6196" stroke-linejoin="round" height="79.775" width="29.775" stroke="#7c7c7c" stroke-linecap="round" y="1392.7" x="2070.1" stroke-width="2.2245" fill="#27ae60"/>
   </g>
   <g id="g6533" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-<<<<<<< HEAD
-   <desc id="desc6543">TITULO HUASTECA CENTRO</desc>
-   <title id="title6541">TITULO HUASTECA CENTRO</title>
-=======
    <desc id="desc6543">HUASTECA CENTRO</desc>
    <title id="title6541">HUASTECA CENTRO</title>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <text id="text7853" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="2132.3018" x="2525.1941" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7855" sodipodi:role="line" x="2525.1941" y="2132.3018"><tspan id="tspan7857" y="2132.3018" x="2525.1941">MICROREGION</tspan><tspan id="tspan7859" y="2132.3018" x="2847.0691" dx="0"/></tspan><tspan id="tspan7861" sodipodi:role="line" x="2525.1941" y="2182.3018"><tspan id="tspan7863" y="2182.3018" x="2525.1941">HUASTECA CENTRO</tspan></tspan></text>
    <rect id="rect6198" stroke-linejoin="round" height="79.749" width="29.749" stroke="#7c7c7c" stroke-linecap="round" y="2102.7" x="2472.1" stroke-width="2.2508" fill="#2980b9"/>
   </g>
   <g id="g6521" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-<<<<<<< HEAD
-   <desc id="desc6531">TITULO HUASTECA SUR</desc>
-   <title id="title6529">TITULO HUASTECA SUR</title>
-   <text id="text7865" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="2417.938" x="1794.0454" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7867" sodipodi:role="line" font-size="40px" font-weight="bold" y="2417.938" x="1794.0454" font-family="sans-serif"><tspan id="tspan7869" line-height="125%" y="2417.938" x="1794.0454">MICROREGION</tspan><tspan id="tspan7871" line-height="125%" dx="0" y="2417.938" x="2115.9207"/></tspan><tspan id="tspan7873" sodipodi:role="line" x="1770.4517" y="2467.938"><tspan id="tspan7875" font-weight="bold" font-size="40px" line-height="125%" y="2467.938" x="1770.4517" font-family="sans-serif">HUASTECA SUR</tspan></tspan></text>
-   <rect id="rect6207" stroke-linejoin="round" height="79.722" width="29.722" stroke="#7c7c7c" stroke-linecap="round" y="2390.7" x="2136.1" stroke-width="2.278" fill="#2980b9"/>
-  </g>
-  <g id="g6509" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-   <desc id="desc6519">TITULO MEDIA OESTE</desc>
-   <title id="title6517">TITULO MEDIA OESTE</title>
-=======
    <desc id="desc6531">HUASTECA SUR</desc>
    <title id="title6529">HUASTECA SUR</title>
    <text id="text7865" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="2417.938" x="1794.0454" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7867" sodipodi:role="line" font-size="40px" font-weight="bold" y="2417.938" x="1794.0454" font-family="sans-serif"><tspan id="tspan7869" line-height="125%" y="2417.938" x="1794.0454">MICROREGION</tspan><tspan id="tspan7871" line-height="125%" dx="0" y="2417.938" x="2115.9207"/></tspan><tspan id="tspan7873" sodipodi:role="line" x="1770.4517" y="2467.938"><tspan id="tspan7875" font-weight="bold" font-size="40px" line-height="125%" y="2467.938" x="1770.4517" font-family="sans-serif">HUASTECA SUR</tspan></tspan></text>
@@ -502,37 +404,22 @@ div {
   <g id="g6509" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
    <desc id="desc6519">MEDIA OESTE</desc>
    <title id="title6517">MEDIA OESTE</title>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <text id="text7877" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="2307.9385" x="1175.5002" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7879" sodipodi:role="line" font-size="40px" font-weight="bold" y="2307.9385" x="1175.5002" font-family="sans-serif"><tspan id="tspan7881" line-height="125%" y="2307.9385" x="1175.5002">MICROREGION</tspan><tspan id="tspan7883" line-height="125%" dx="0" y="2307.9385" x="1497.3752"/></tspan><tspan id="tspan7885" sodipodi:role="line" x="1192.5315" y="2357.9385"><tspan id="tspan7887" font-weight="bold" font-size="40px" line-height="125%" y="2357.9385" x="1192.5315" font-family="sans-serif">MEDIA OESTE</tspan></tspan></text>
    <rect id="rect6209" stroke-linejoin="round" height="79.498" width="29.498" stroke="#7c7c7c" stroke-linecap="round" y="2280.8" x="1522.2" stroke-width="2.5019" fill="#8e44ad"/>
   </g>
   <g id="g6497" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-<<<<<<< HEAD
-   <desc id="desc6507">TITULO CENTRO SUR</desc>
-   <title id="title6505">TITULO CENTRO SUR</title>
-=======
    <desc id="desc6507">CENTRO SUR</desc>
    <title id="title6505">CENTRO SUR</title>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <text id="text7889" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="2244.1196" x="616.04645" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7891" sodipodi:role="line" font-size="40px" font-weight="bold" y="2244.1196" x="616.04645" font-family="sans-serif"><tspan id="tspan7893" line-height="125%" y="2244.1196" x="616.04645">MICROREGION</tspan><tspan id="tspan7895" line-height="125%" dx="0" y="2244.1196" x="937.92139"/></tspan><tspan id="tspan7897" sodipodi:role="line" x="649.71832" y="2294.1196"><tspan id="tspan7899" font-weight="bold" font-size="40px" line-height="125%" y="2294.1196" x="649.71832" font-family="sans-serif">CENTRO SUR</tspan></tspan></text>
    <rect id="rect6211" stroke-linejoin="round" height="80.145" width="30.145" stroke="#7c7c7c" stroke-linecap="round" y="2214.5" x="963.9" stroke-width="1.8545" fill="#e74c3c"/>
   </g>
   <g id="g6473" transform="matrix(.33134 0 0 .33134 801.35 838.06)">
-<<<<<<< HEAD
-   <desc id="desc6483">TITULO ALTIPLANO CENTRO</desc>
-   <title id="title6481">TITULO ALTIPLANO CENTRO</title>
-   <text id="text8021" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="1559.3934" x="114.22756" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan8023" sodipodi:role="line" font-size="40px" font-weight="bold" y="1559.3934" x="114.22756" font-family="sans-serif"><tspan id="tspan8025" line-height="125%" y="1559.3934" x="114.22756">MICROREGION</tspan><tspan id="tspan8027" line-height="125%" dx="0" y="1559.3934" x="436.10257"/></tspan><tspan id="tspan8029" sodipodi:role="line" x="-5.1474404" y="1609.3934"><tspan id="tspan8031" font-weight="bold" font-size="40px" line-height="125%" y="1609.3934" x="-5.1474404" font-family="sans-serif">ALTIPLANO CENTRO</tspan></tspan></text>
-   <rect id="rect6215" stroke-linejoin="round" height="79.694" width="29.694" stroke="#7c7c7c" stroke-linecap="round" y="1532.7" x="460.13" stroke-width="2.3063" fill="#d35400"/>
-  </g>
-  <g id="g7028" transform="matrix(.33134 0 0 .33134 808.64 838.06)" data-toggle="modal" data-target="#myModal8" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;)" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;)">
-=======
    <desc id="desc6483">ALTIPLANO CENTRO</desc>
    <title id="title6481">ALTIPLANO CENTRO</title>
    <text id="text8021" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="1559.3934" x="114.22756" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan8023" sodipodi:role="line" font-size="40px" font-weight="bold" y="1559.3934" x="114.22756" font-family="sans-serif"><tspan id="tspan8025" line-height="125%" y="1559.3934" x="114.22756">MICROREGION</tspan><tspan id="tspan8027" line-height="125%" dx="0" y="1559.3934" x="436.10257"/></tspan><tspan id="tspan8029" sodipodi:role="line" x="-5.1474404" y="1609.3934"><tspan id="tspan8031" font-weight="bold" font-size="40px" line-height="125%" y="1609.3934" x="-5.1474404" font-family="sans-serif">ALTIPLANO CENTRO</tspan></tspan></text>
    <rect id="rect6215" stroke-linejoin="round" height="79.694" width="29.694" stroke="#7c7c7c" stroke-linecap="round" y="1532.7" x="460.13" stroke-width="2.3063" fill="#d35400"/>
   </g>
   <g id="g7028" transform="matrix(.33134 0 0 .33134 808.64 838.06)" data-toggle="modal" data-target="#myModal8" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title10')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title10')">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <desc id="desc7067">MICROREGION HUASTECA SUR</desc>
    <title id="title7065">MICROREGION HUASTECA SUR</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#34495e">
@@ -555,13 +442,8 @@ div {
    </g>
   </g>
   <g id="g8045" transform="matrix(.33134 0 0 .33134 808.64 838.06)">
-<<<<<<< HEAD
-   <desc id="desc8055">TITULO CENTRO</desc>
-   <title id="title8053">TITULO CENTRO</title>
-=======
    <desc id="desc8055">CENTRO</desc>
    <title id="title8053">CENTRO</title>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
    <rect id="rect6213" stroke-linejoin="round" height="79.823" width="29.823" stroke="#7c7c7c" stroke-linecap="round" y="1830.6" x="436.07" stroke-width="2.1771" fill="#c0392b"/>
    <text id="text8033" style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-weight="bold" sodipodi:linespacing="125%" font-size="40px" y="1859.058" x="90.1782" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan8035" sodipodi:role="line" line-height="125%" y="1859.058" x="90.1782"><tspan id="tspan8037" font-weight="bold" font-size="40px" line-height="125%" dx="0 0 0 0 0 0 0 0 0 0 0 0" y="1859.058" x="90.1782" font-family="sans-serif">MICROREGION</tspan></tspan><tspan id="tspan8041" sodipodi:role="line" line-height="125%" y="1909.058" x="229.94383"><tspan id="tspan8043" font-weight="bold" font-size="40px" line-height="125%" y="1909.058" x="229.94383" font-family="sans-serif">CENTRO</tspan></tspan></text>
   </g>
@@ -630,20 +512,14 @@ div {
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-<<<<<<< HEAD
-=======
                           <li data-target="#myCarousel" data-slide-to="1"></li>
                           <li data-target="#myCarousel" data-slide-to="2"></li>
                           <li data-target="#myCarousel" data-slide-to="3"></li>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                         </ol>
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-<<<<<<< HEAD
-                            <img src="PM/PM/AO0101/PM-01.png" alt="">
-=======
                             <img src="PM/AO0101/PM-01.png" alt="">
                           </div>
                             
@@ -657,7 +533,6 @@ div {
                             
                           <div class="item">
                             <img src="PM/AO0101/PM-36.png" alt="">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                           </div>
 
                         </div>
@@ -710,20 +585,11 @@ div {
                   1.	Disminución de la carencia social</a>
                 </h4>
               </div>
-<<<<<<< HEAD
-              <div id="collapse2" class="panel-collapse collapse in">
-                  <div class="panel-body">
-                      <!----------->
-                      <!----------->
-                  </div>
-              </div>
-=======
               <!--<div id="collapse2" class="panel-collapse collapse ">
                   <div class="panel-body">
                       
                   </div>
               </div>-->
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
             </div>
             <div class="panel panel-default">
               <div class="panel-heading">
@@ -738,11 +604,7 @@ div {
                       <div id="myCarousel3" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-<<<<<<< HEAD
-                          <li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
-=======
                           <li data-target="#myCarousel3" data-slide-to="0"></li>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                           <li data-target="#myCarousel3" data-slide-to="1"></li>
                           <li data-target="#myCarousel3" data-slide-to="2"></li>
                           <li data-target="#myCarousel3" data-slide-to="3"></li>
@@ -751,21 +613,6 @@ div {
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-<<<<<<< HEAD
-                            <img src="PM/PM/AC0102/PM-02.png" alt="">
-                          </div>
-
-                          <div class="item">
-                            <img src="PM/PM/AC0102/PM-14.png" alt="">
-                          </div>
-
-                          <div class="item">
-                            <img src="PM/PM/AC0102/PM-15.png" alt="">
-                          </div>
-                            
-                          <div class="item">
-                            <img src="PM/PM/AC0102/PM-16.png" alt="">
-=======
                             <img src="PM/AC0102/PM-02.png" alt="">
                           </div>
 
@@ -779,7 +626,6 @@ div {
                             
                           <div class="item">
                             <img src="PM/AC0102/PM-14.png" alt="">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                           </div>
                         </div>
 
@@ -832,11 +678,7 @@ div {
       <div class="modal-body">
         <!----------->
         
-<<<<<<< HEAD
-        <div class="panel-group" id="accordion">
-=======
         <!--<div class="panel-group" id="accordion">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
             <div class="panel panel-default">
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
@@ -846,22 +688,12 @@ div {
               </div>
               <div id="collapse5" class="panel-collapse collapse in">
                   <div class="panel-body">
-<<<<<<< HEAD
-                      <!----------->
                       
-                      <!----------->
-=======
-                      
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                   </div>
               </div>
             </div>
             
-<<<<<<< HEAD
-          </div>
-=======
           </div>-->
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
         
         <!----------->
       </div>
@@ -912,22 +744,14 @@ div {
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel4" data-slide-to="0" class="active"></li>
-<<<<<<< HEAD
-=======
                           <li data-target="#myCarousel4" data-slide-to="1"></li>
                           <li data-target="#myCarousel4" data-slide-to="2"></li>
                           <li data-target="#myCarousel4" data-slide-to="3"></li>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                         </ol>
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-<<<<<<< HEAD
-                            <img src="PM/PM/MO0103/PM-03.png" alt="">
-                          </div>
-
-=======
                             <img src="PM/MO0103/PM-03.png" alt="">
                           </div>
                           
@@ -942,7 +766,6 @@ div {
                           <div class="item">
                             <img src="PM/MO0103/PM-17.png" alt="">
                           </div>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                         </div>
 
                         <!-- Left and right controls -->
@@ -1016,21 +839,6 @@ div {
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-<<<<<<< HEAD
-                            <img src="PM/PM/AC0102/PM-02.png" alt="">
-                          </div>
-
-                          <div class="item">
-                            <img src="PM/PM/AC0102/PM-14.png" alt="">
-                          </div>
-
-                          <div class="item">
-                            <img src="PM/PM/AC0102/PM-15.png" alt="">
-                          </div>
-                            
-                          <div class="item">
-                            <img src="PM/PM/AC0102/PM-16.png" alt="">
-=======
                               <img src="PM/ME0104/PM-04.png" alt="">
                           </div>
                             
@@ -1137,24 +945,15 @@ div {
                             
                           <div class="item">
                             <img src="PM/HN0105/PM-20.png" alt="">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                           </div>
                         </div>
  
                         <!-- Left and right controls -->
-<<<<<<< HEAD
-                        <a class="left carousel-control" href="#myCarousel3" data-slide="prev">
-                          <span class="glyphicon glyphicon-chevron-left"></span>
-                          <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="right carousel-control" href="#myCarousel3" data-slide="next">
-=======
                         <a class="left carousel-control" href="#myCarousel6" data-slide="prev">
                           <span class="glyphicon glyphicon-chevron-left"></span>
                           <span class="sr-only">Previous</span>
                         </a>
                         <a class="right carousel-control" href="#myCarousel6" data-slide="next">
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
                           <span class="glyphicon glyphicon-chevron-right"></span>
                           <span class="sr-only">Next</span>
                         </a>
@@ -1180,16 +979,6 @@ div {
 
 
 
-<<<<<<< HEAD
-
-
-
-</div>
-
-
-
-
-=======
 <div id="myModal7" class="modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
@@ -1324,24 +1113,10 @@ div {
         </div>
     </div>
 </div>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
 
 
 
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-          </section>
-=======
     
     
 
@@ -1446,7 +1221,6 @@ div {
 
 </div>
 </section>
->>>>>>> c50cc5334d887a8063f4625a2efb15106309e455
         
         
       
