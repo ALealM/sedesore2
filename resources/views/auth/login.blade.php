@@ -1257,11 +1257,11 @@ $(document).ready(function(){
 
     function shownames(id,id2){
         $('#'+id).removeAttr('style'); 
-        $('#'+id2).attr('fill-opacity','1.0');
+        $('#'+id2).attr('fill-opacity','0.7');
     } 
     function hidenames(id,id2){ 
         $('#'+id).attr('style','display:none'); 
-        $('#'+id2).attr('fill-opacity','0.7');
+        $('#'+id2).attr('fill-opacity','1.0');
     }
 
 
