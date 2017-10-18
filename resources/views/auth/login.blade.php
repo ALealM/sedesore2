@@ -154,7 +154,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5438" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion5440"><rect id="rect5442" y="565.45" width="91" x="257" height="53"/></flowRegion><flowPara id="flowPara5444">VILLA DE L</flowPara></flowRoot>
-  <g id="g6688" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="hidenames('title1');setAttribute('fill-opacity','1.0'); " onmouseover="shownames('title1');"setAttribute('fill-opacity','0.7'); >
+  <g id="g6688" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="hidenames('title1','g6688'); " onmouseover="shownames('title1','g6688');">
    <desc id="desc6707">MICROREGION CENTRO SUR</desc>
    <title id="title6705">MICROREGION CENTRO SUR</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke-linecap="round" stroke-width="3" fill="#e74c3c">
@@ -459,7 +459,7 @@ div {
     </g>
    </g>
    <text id="text12573" style="word-spacing:0px;letter-spacing:0px" line-height="125%" sodipodi:linespacing="125%" font-size="40px" y="1172.9938" x="-711.15546" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan12575" y="1172.9938" x="-711.15546" sodipodi:role="line"><tspan id="tspan12577" y="1172.9938" x="-711.15546">Microrregión Altiplano Oeste                              </tspan></tspan></text>
-   <text id="text12579" style="word-spacing:0px;letter-spacing:0px" line-height="125%" sodipodi:linespacing="125%" font-size="40px" y="1237.2789" x="-612.92889" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan12581" y="0" x="-553.94452" sodipodi:role="line"><tspan id="tspan12583" y="1237.2789" x="-612.92889">1.</tspan><tspan id="tspan12585" y="1237.2789" x="-574.72577">	</tspan><tspan id="tspan12587" y="1237.2789" x="-553.94452">Programa ovino</tspan></tspan></text>
+   <text id="text12579" style="word-spacing:0px;letter-spacing:0px" line-height="125%" sodipodi:linespacing="125%" font-size="40px" y="1237.2789" x="-612.92889" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan12581" y="0" x="-553.94452" sodipodi:role="line"><tspan id="tspan12583" y="1237.2789" x="-612.92889">1.</tspan><tspan id="tspan12585" y="1237.2789" x="-574.72577"> </tspan><tspan id="tspan12587" y="1237.2789" x="-553.94452">Programa ovino</tspan></tspan></text>
   </g>
   <g id="tooltip2" inkscape:label="#g13886" display="none">
    <title id="title13905">tooltip altiplano</title>
@@ -471,8 +471,8 @@ div {
    </g>
    <g font-size="40px" font-family="sans-serif" fill="#000000">
     <flowRoot id="flowRoot13839" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-461.4 3.2306)" line-height="125%"><flowRegion id="flowRegion13841"><rect id="rect13843" y="524.48" x="133" width="575" height="185"/></flowRegion><flowPara id="flowPara13845">Microrregión Altiplano </flowPara></flowRoot>
-    <flowRoot id="flowRoot13847" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-610.11 17.108)" line-height="125%"><flowRegion id="flowRegion13849"><rect id="rect13851" y="580.48" x="138" width="747" height="109"/></flowRegion><flowPara id="flowPara13853">1.	Disminución de la carencia social </flowPara></flowRoot>
-    <flowRoot id="flowRoot13864" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-545.09 29.231)" line-height="125%"><flowRegion id="flowRegion13866"><rect id="rect13868" y="630.48" x="127" width="640" height="69"/></flowRegion><flowPara id="flowPara13870">2.	De acceso a la alimentación</flowPara></flowRoot>
+    <flowRoot id="flowRoot13847" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-610.11 17.108)" line-height="125%"><flowRegion id="flowRegion13849"><rect id="rect13851" y="580.48" x="138" width="747" height="109"/></flowRegion><flowPara id="flowPara13853">1.  Disminución de la carencia social </flowPara></flowRoot>
+    <flowRoot id="flowRoot13864" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-545.09 29.231)" line-height="125%"><flowRegion id="flowRegion13866"><rect id="rect13868" y="630.48" x="127" width="640" height="69"/></flowRegion><flowPara id="flowPara13870">2. De acceso a la alimentación</flowPara></flowRoot>
    </g>
   </g>
  </g>
@@ -502,7 +502,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                  1.	Programa ovino</a>
+                  1.  Programa ovino</a>
                 </h4>
               </div>
               <div id="collapse1" class="panel-collapse collapse in">
@@ -582,7 +582,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                  1.	Disminución de la carencia social</a>
+                  1.  Disminución de la carencia social</a>
                 </h4>
               </div>
               <!--<div id="collapse2" class="panel-collapse collapse ">
@@ -595,7 +595,7 @@ div {
               <div class="panel-heading">
                 <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                  2.	De acceso a la alimentación</a>
+                  2.  De acceso a la alimentación</a>
                 </h4>
               </div>
               <div id="collapse3" class="panel-collapse collapse">
@@ -734,7 +734,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
-                  1.	Agroparque alimentario </a>
+                  1.  Agroparque alimentario </a>
                 </h4>
               </div>
               <div id="collapse6" class="panel-collapse collapse in">
@@ -821,7 +821,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
-                  1.	Proyecto microregional de base pecuaria </a>
+                  1.  Proyecto microregional de base pecuaria </a>
                 </h4>
               </div>
               <div id="collapse7" class="panel-collapse collapse in">
@@ -914,7 +914,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
-                  1.	Pujal Coy 2a Fase</a>
+                  1.  Pujal Coy 2a Fase</a>
                 </h4>
               </div>
               <div id="collapse8" class="panel-collapse collapse in">
@@ -996,7 +996,7 @@ div {
                         <div class="panel-heading">
                             <h4 class="panel-title" style="text-align: left;">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
-                                    1.	Plan concertado para el desarrollo de la región piloncillera</a>
+                                    1.  Plan concertado para el desarrollo de la región piloncillera</a>
                             </h4>
                         </div>
                         <div id="collapse9" class="panel-collapse collapse ">
@@ -1049,7 +1049,7 @@ div {
                             <div class="panel-heading">
                                 <h4 class="panel-title" style="text-align: left;">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">
-                                        2.	Plan Rector de la Zona Indigena de la Huasteca</a>
+                                        2.  Plan Rector de la Zona Indigena de la Huasteca</a>
                                 </h4>
                             </div>
                             <div id="collapse10" class="panel-collapse collapse ">
@@ -1137,7 +1137,7 @@ div {
                         <div class="panel-heading">
                             <h4 class="panel-title" style="text-align: left;">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">
-                                    1.	Centro de acopio y transformación rural cafetalero</a>
+                                    1.  Centro de acopio y transformación rural cafetalero</a>
                             </h4>
                         </div>
                         <div id="collapse11" class="panel-collapse collapse ">
@@ -1190,7 +1190,7 @@ div {
                             <div class="panel-heading">
                                 <h4 class="panel-title" style="text-align: left;">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">
-                                        2.	Plan Rector de la Zona Indigena de la Huasteca</a>
+                                        2.  Plan Rector de la Zona Indigena de la Huasteca</a>
                                 </h4>
                             </div>
                             <!--<div id="collapse12" class="panel-collapse collapse ">
@@ -1225,9 +1225,9 @@ div {
         
       
         
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script>
                 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -1236,30 +1236,32 @@ div {
                 <script>
       
 $(document).ready(function(){
-	$('[data-toggle="popover"]').popover();
-	$('.popover-dismiss').popover({
-  		trigger: 'focus'
-	});
+  $('[data-toggle="popover"]').popover();
+  $('.popover-dismiss').popover({
+      trigger: 'focus'
+  });
     $('[data-toggle="tooltip"]').tooltip();
     $(".show-tt").click(function(){
-   		$(".hover-tooltip a").tooltip('show');
+      $(".hover-tooltip a").tooltip('show');
     });
     $(".hide-tt").click(function(){
-   		$(".hover-tooltip a").tooltip('hide');
+      $(".hover-tooltip a").tooltip('hide');
     });
     $(".toggle-tt").click(function(){
-   		$(".hover-tooltip a").tooltip('toggle');
+      $(".hover-tooltip a").tooltip('toggle');
     });
     $(".destroy-tt").click(function(){
       $(".hover-tooltip a").tooltip('destroy'); // destroy
     });
 });
 
-    function shownames(id){
+    function shownames(id,id2){
         $('#'+id).removeAttr('style'); 
+        $('#'+id2).setAttribute('fill-opacity','1.0');
     } 
-    function hidenames(id){ 
+    function hidenames(id,id2){ 
         $('#'+id).attr('style','display:none'); 
+        $('#'+id2).setAttribute('fill-opacity','0.7');
     }
 
 
