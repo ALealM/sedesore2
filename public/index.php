@@ -321,7 +321,7 @@ div {
    <text id="text7805" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" y="618.66522" x="13.920341" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7807" sodipodi:role="line" font-size="40px" font-weight="bold" y="618.66522" x="13.920341" font-family="sans-serif"><tspan id="tspan7809" line-height="125%" y="618.66522" x="13.920341">MICROREGION</tspan><tspan id="tspan7811" line-height="125%" dx="0" y="618.66522" x="335.79535"/></tspan><tspan id="tspan7813" sodipodi:role="line" x="13.920341" y="668.66522"><tspan id="tspan7815" font-weight="bold" font-size="40px" line-height="125%" y="668.66522" x="13.920341" font-family="sans-serif">ALTIPLANO OESTE</tspan></tspan></text>
    <rect id="rect6160" stroke-linejoin="round" height="79.56" width="29.56" stroke="#7c7c7c" stroke-linecap="round" y="586.78" x="-37.803" stroke-width="2.4396" fill="#f39c12"/>
   </g>
-  <g id="g6569" data-toggle="modal" data-target="#myModal1" onclick="" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title7')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title7')">
+  <g id="g6569" data-toggle="modal" data-target="#myModal1" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title7')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title7')">
    <desc id="desc6588">MICROREGION ALTIPLANO OESTE</desc>
    <title id="title6586">MICROREGION ALTIPLANO OESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#f39c12">
@@ -355,7 +355,7 @@ div {
     <text id="text7443" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" y="1371.6605" x="898.28418" sodipodi:linespacing="125%"><tspan id="tspan7445" sodipodi:role="line" x="898.28418" y="1371.6605"><tspan id="tspan7447" y="1371.6605" x="898.28418" font-size="27.5px">VILLA DE </tspan></tspan><tspan id="tspan7449" sodipodi:role="line" x="898.28418" y="1406.0355"><tspan id="tspan7451" y="1406.0355" x="898.28418" font-size="27.5px">ARISTA</tspan></tspan></text>
    </g>
   </g>
-  <g id="g6408" data-toggle="modal" data-target="#myModal9" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title9')" onclick="" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title9')">
+  <g id="g6408" data-toggle="modal" data-target="#myModal9" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title9')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title9')">
    <desc id="desc6447">MICROREGION ALTIPLANO ESTE</desc>
    <title id="title6445">MICROREGION ALTIPLANO ESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#e67e22">
