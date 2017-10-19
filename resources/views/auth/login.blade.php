@@ -537,7 +537,7 @@ div {
               <div id="collapse1" class="panel-collapse collapse in">
                   <div class="panel-body">
                       <!----------->
-                      <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                      <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -630,7 +630,7 @@ div {
               <div id="collapse3" class="panel-collapse collapse">
                   <div class="panel-body">
                        <!----------->
-                      <div id="myCarousel3" class="carousel slide" data-ride="carousel">
+                      <div id="myCarousel3" class="carousel slide" data-ride="carousel" data-interval="false">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
@@ -769,7 +769,7 @@ div {
               <div id="collapse6" class="panel-collapse collapse in">
                   <div class="panel-body">
                       <!----------->
-                      <div id="myCarousel4" class="carousel slide" data-ride="carousel">
+                      <div id="myCarousel4" class="carousel slide" data-ride="carousel" data-interval="false">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel4" data-slide-to="0" class="active"></li>
@@ -856,7 +856,7 @@ div {
               <div id="collapse7" class="panel-collapse collapse in">
                   <div class="panel-body">
                       <!----------->
-                      <div id="myCarousel5" class="carousel slide" data-ride="carousel">
+                      <div id="myCarousel5" class="carousel slide" data-ride="carousel" data-interval="false">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel5" data-slide-to="0" class="active"></li>
@@ -949,7 +949,7 @@ div {
               <div id="collapse8" class="panel-collapse collapse in">
                   <div class="panel-body">
                       <!----------->
-                      <div id="myCarousel6" class="carousel slide" data-ride="carousel">
+                      <div id="myCarousel6" class="carousel slide" data-ride="carousel" data-interval="false">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel6" data-slide-to="0" class="active"></li>
@@ -1031,7 +1031,7 @@ div {
                         <div id="collapse9" class="panel-collapse collapse ">
                             <div class="panel-body">
                                 <!----------->
-                                <div id="myCarousel7" class="carousel slide" data-ride="carousel">
+                                <div id="myCarousel7" class="carousel slide" data-ride="carousel" data-interval="false">
                                     <!-- Indicators -->
                                     <ol class="carousel-indicators">
                                         <li data-target="#myCarousel7" data-slide-to="0" class="active"></li>
@@ -1084,7 +1084,7 @@ div {
                             <div id="collapse10" class="panel-collapse collapse ">
                                 <div class="panel-body">
                                     <!----------->
-                                    <div id="myCarousel8" class="carousel slide" data-ride="carousel">
+                                    <div id="myCarousel8" class="carousel slide" data-ride="carousel" data-interval="false">
                                         <!-- Indicators -->
                                         <ol class="carousel-indicators">
                                             <li data-target="#myCarousel8" data-slide-to="0" class="active"></li>
@@ -1172,7 +1172,7 @@ div {
                         <div id="collapse11" class="panel-collapse collapse ">
                             <div class="panel-body">
                                 <!----------->
-                                <div id="myCarousel9" class="carousel slide" data-ride="carousel">
+                                <div id="myCarousel9" class="carousel slide" data-ride="carousel" data-interval="false">
                                     <!-- Indicators -->
                                     <ol class="carousel-indicators">
                                         <li data-target="#myCarousel9" data-slide-to="0" class="active"></li>
