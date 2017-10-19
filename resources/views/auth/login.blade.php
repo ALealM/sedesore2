@@ -1300,7 +1300,7 @@ div {
 
 <!-- Modal -->
 <div id="myModal10" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog">
 
     <!-- Modal content-->
     <div class="modal-content">
