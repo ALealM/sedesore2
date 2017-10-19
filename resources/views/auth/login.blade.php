@@ -515,7 +515,7 @@ div {
 
 <!-- Modal -->
 <div id="myModal1" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
     <!-- Modal content-->
     <div class="modal-content">
@@ -595,7 +595,7 @@ div {
 
 <!-- Modal -->
 <div id="myModal2" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
     <!-- Modal content-->
     <div class="modal-content">
@@ -696,7 +696,7 @@ div {
 
 <!-- Modal -->
 <div id="myModal3" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
     <!-- Modal content-->
     <div class="modal-content">
@@ -747,7 +747,7 @@ div {
 
 <!-- Modal -->
 <div id="myModal4" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
     <!-- Modal content-->
     <div class="modal-content">
@@ -834,7 +834,7 @@ div {
 
 <!-- Modal -->
 <div id="myModal5" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
     <!-- Modal content-->
     <div class="modal-content">
@@ -927,7 +927,7 @@ div {
 
 
 <div id="myModal6" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
     <!-- Modal content-->
     <div class="modal-content">
@@ -1009,7 +1009,7 @@ div {
 
 
 <div id="myModal7" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
         <!-- Modal content-->
         <div class="modal-content">
@@ -1150,7 +1150,7 @@ div {
     
 
 <div id="myModal8" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
         <!-- Modal content-->
         <div class="modal-content">
@@ -1251,7 +1251,7 @@ div {
 
 <!-- Modal -->
 <div id="myModal9" class="modal fullscreen-modal fade" role="dialog">
-    <div class="modal-dialog" style="width: 900px; height: auto;">
+    <div class="modal-dialog" >
 
     <!-- Modal content-->
     <div class="modal-content">
