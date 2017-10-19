@@ -549,19 +549,19 @@ div {
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                            <img src="PM/AO0101/PM-01.png" alt="">
+                            <img src="PM/AO0101/PM-01.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item">
-                            <img src="PM/AO0101/PM-10.png" alt="">
+                            <img src="PM/AO0101/PM-10.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item">
-                            <img src="PM/AO0101/PM-11.png" alt="">
+                            <img src="PM/AO0101/PM-11.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item">
-                            <img src="PM/AO0101/PM-36.png" alt="">
+                            <img src="PM/AO0101/PM-36.png" alt="" class="img-responsive">
                           </div>
 
                         </div>
@@ -642,19 +642,19 @@ div {
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                            <img src="PM/AC0102/PM-02.png" alt="">
+                            <img src="PM/AC0102/PM-02.png" alt="" class="img-responsive">
                           </div>
 
                           <div class="item">
-                            <img src="PM/AC0102/PM-12.png" alt="">
+                            <img src="PM/AC0102/PM-12.png" alt="" class="img-responsive">
                           </div>
 
                           <div class="item">
-                            <img src="PM/AC0102/PM-13.png" alt="">
+                            <img src="PM/AC0102/PM-13.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item">
-                            <img src="PM/AC0102/PM-14.png" alt="">
+                            <img src="PM/AC0102/PM-14.png" alt="" class="img-responsive">
                           </div>
                         </div>
 
@@ -781,19 +781,19 @@ div {
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                            <img src="PM/MO0103/PM-03.png" alt="">
+                            <img src="PM/MO0103/PM-03.png" alt="" class="img-responsive">
                           </div>
                           
                           <div class="item">
-                            <img src="PM/MO0103/PM-15.png" alt="">
+                            <img src="PM/MO0103/PM-15.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item">
-                            <img src="PM/MO0103/PM-16.png" alt="">
+                            <img src="PM/MO0103/PM-16.png" alt="" class="img-responsive">
                           </div>
                           
                           <div class="item">
-                            <img src="PM/MO0103/PM-17.png" alt="">
+                            <img src="PM/MO0103/PM-17.png" alt="" class="img-responsive">
                           </div>
                         </div>
 
@@ -868,19 +868,19 @@ div {
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                              <img src="PM/ME0104/PM-04.png" alt="">
+                              <img src="PM/ME0104/PM-04.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item ">
-                              <img src="PM/ME0104/PM-33.png" alt="">
+                              <img src="PM/ME0104/PM-33.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item ">
-                              <img src="PM/ME0104/PM-34.png" alt="">
+                              <img src="PM/ME0104/PM-34.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item ">
-                              <img src="PM/ME0104/PM-35.png" alt="">
+                              <img src="PM/ME0104/PM-35.png" alt="" class="img-responsive">
                           </div>
                             
                         </div>
@@ -961,19 +961,19 @@ div {
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                              <img src="PM/HN0105/PM-05.png" alt="">
+                              <img src="PM/HN0105/PM-05.png" alt="" class="img-responsive">
                           </div>
 
                           <div class="item">
-                            <img src="PM/HN0105/PM-18.png" alt="">
+                            <img src="PM/HN0105/PM-18.png" alt="" class="img-responsive">
                           </div>
 
                           <div class="item">
-                            <img src="PM/HN0105/PM-19.png" alt="">
+                            <img src="PM/HN0105/PM-19.png" alt="" class="img-responsive">
                           </div>
                             
                           <div class="item">
-                            <img src="PM/HN0105/PM-20.png" alt="">
+                            <img src="PM/HN0105/PM-20.png" alt="" class="img-responsive">
                           </div>
                         </div>
  
@@ -1043,19 +1043,19 @@ div {
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                            <img src="PM/HC0106/PM-06.png" alt="">
+                                            <img src="PM/HC0106/PM-06.png" alt="" class="img-responsive">
                                         </div>
 
                                         <div class="item">
-                                            <img src="PM/HC0106/PM-21.png" alt="">
+                                            <img src="PM/HC0106/PM-21.png" alt="" class="img-responsive">
                                         </div>
 
                                         <div class="item">
-                                            <img src="PM/HC0106/PM-22.png" alt="">
+                                            <img src="PM/HC0106/PM-22.png" alt="" class="img-responsive">
                                         </div>
 
                                         <div class="item">
-                                            <img src="PM/HC0106/PM-23.png" alt="">
+                                            <img src="PM/HC0106/PM-23.png" alt="" class="img-responsive">
                                         </div>
                                     </div>
 
@@ -1096,19 +1096,19 @@ div {
                                         <!-- Wrapper for slides -->
                                         <div class="carousel-inner">
                                             <div class="item active">
-                                                <img src="PM/HC0207/PM-07.png" alt="">
+                                                <img src="PM/HC0207/PM-07.png" alt="" class="img-responsive">
                                             </div>
 
                                             <div class="item">
-                                                <img src="PM/HC0207/PM-24.png" alt="">
+                                                <img src="PM/HC0207/PM-24.png" alt="" class="img-responsive">
                                             </div>
 
                                             <div class="item">
-                                                <img src="PM/HC0207/PM-25.png" alt="">
+                                                <img src="PM/HC0207/PM-25.png" alt="" class="img-responsive">
                                             </div>
 
                                             <div class="item">
-                                                <img src="PM/HC0207/PM-26.png" alt="">
+                                                <img src="PM/HC0207/PM-26.png" alt="" class="img-responsive">
                                             </div>
                                         </div>
 
@@ -1184,19 +1184,19 @@ div {
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                            <img src="PM/HSO0108/PM-08.png" alt="">
+                                            <img src="PM/HSO0108/PM-08.png" alt="" class="img-responsive">
                                         </div>
 
                                         <div class="item">
-                                            <img src="PM/HSO0108/PM-27.png" alt="">
+                                            <img src="PM/HSO0108/PM-27.png" alt="" class="img-responsive">
                                         </div>
 
                                         <div class="item">
-                                            <img src="PM/HSO0108/PM-28.png" alt="">
+                                            <img src="PM/HSO0108/PM-28.png" alt="" class="img-responsive">
                                         </div>
 
                                         <div class="item">
-                                            <img src="PM/HSO0108/PM-29.png" alt="">
+                                            <img src="PM/HSO0108/PM-29.png" alt="" class="img-responsive">
                                         </div>
                                     </div>
 
