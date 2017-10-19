@@ -518,10 +518,10 @@ div {
                       <div id="myCarousel" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel" data-slide-to="0" class="activa"></li>
-                          <li data-target="#myCarousel" data-slide-to="1"></li>
-                          <li data-target="#myCarousel" data-slide-to="2"></li>
-                          <li data-target="#myCarousel" data-slide-to="3"></li>
+                          <li data-target="#myCarousel" data-slide-to="0" class="active activa"></li>
+                          <li data-target="#myCarousel" data-slide-to="1" class="noactiva"></li>
+                          <li data-target="#myCarousel" data-slide-to="2" class="noactiva"></li>
+                          <li data-target="#myCarousel" data-slide-to="3" class="noactiva"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -611,10 +611,10 @@ div {
                       <div id="myCarousel3" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel3" data-slide-to="0" class="activa"></li>
-                          <li data-target="#myCarousel3" data-slide-to="1"></li>
-                          <li data-target="#myCarousel3" data-slide-to="2"></li>
-                          <li data-target="#myCarousel3" data-slide-to="3"></li>
+                          <li data-target="#myCarousel3" data-slide-to="0" class="active activa"></li>
+                          <li data-target="#myCarousel3" data-slide-to="1" class="noactiva"></li>
+                          <li data-target="#myCarousel3" data-slide-to="2" class="noactiva"></li>
+                          <li data-target="#myCarousel3" data-slide-to="3" class="noactiva"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -750,10 +750,10 @@ div {
                       <div id="myCarousel4" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel4" data-slide-to="0" class="activa"></li>
-                          <li data-target="#myCarousel4" data-slide-to="1"></li>
-                          <li data-target="#myCarousel4" data-slide-to="2"></li>
-                          <li data-target="#myCarousel4" data-slide-to="3"></li>
+                          <li data-target="#myCarousel4" data-slide-to="0" class="active activa"></li>
+                          <li data-target="#myCarousel4" data-slide-to="1" class="noactiva"></li>
+                          <li data-target="#myCarousel4" data-slide-to="2" class="noactiva"></li>
+                          <li data-target="#myCarousel4" data-slide-to="3" class="noactiva"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -837,10 +837,10 @@ div {
                       <div id="myCarousel5" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel5" data-slide-to="0" class="activa"></li>
-                          <li data-target="#myCarousel5" data-slide-to="1"></li>
-                          <li data-target="#myCarousel5" data-slide-to="2"></li>
-                          <li data-target="#myCarousel5" data-slide-to="3"></li>
+                          <li data-target="#myCarousel5" data-slide-to="0" class="active activa"></li>
+                          <li data-target="#myCarousel5" data-slide-to="1" class="noactiva"></li>
+                          <li data-target="#myCarousel5" data-slide-to="2" class="noactiva"></li>
+                          <li data-target="#myCarousel5" data-slide-to="3" class="noactiva"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -930,10 +930,10 @@ div {
                       <div id="myCarousel6" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel6" data-slide-to="0" class="activa"></li>
-                          <li data-target="#myCarousel6" data-slide-to="1"></li>
-                          <li data-target="#myCarousel6" data-slide-to="2"></li>
-                          <li data-target="#myCarousel6" data-slide-to="3"></li>
+                          <li data-target="#myCarousel6" data-slide-to="0" class="active activa"></li>
+                          <li data-target="#myCarousel6" data-slide-to="1" class="noactiva"></li>
+                          <li data-target="#myCarousel6" data-slide-to="2" class="noactiva"></li>
+                          <li data-target="#myCarousel6" data-slide-to="3" class="noactiva"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -1012,10 +1012,10 @@ div {
                                 <div id="myCarousel7" class="carousel slide" data-ride="carousel">
                                     <!-- Indicators -->
                                     <ol class="carousel-indicators">
-                                        <li data-target="#myCarousel7" data-slide-to="0" class="activa"></li>
-                                        <li data-target="#myCarousel7" data-slide-to="1"></li>
-                                        <li data-target="#myCarousel7" data-slide-to="2"></li>
-                                        <li data-target="#myCarousel7" data-slide-to="3"></li>
+                                        <li data-target="#myCarousel7" data-slide-to="0" class="active activa"></li>
+                                        <li data-target="#myCarousel7" data-slide-to="1" class="noactiva"></li>
+                                        <li data-target="#myCarousel7" data-slide-to="2" class="noactiva"></li>
+                                        <li data-target="#myCarousel7" data-slide-to="3" class="noactiva"></li>
                                     </ol>
 
                                     <!-- Wrapper for slides -->
@@ -1065,10 +1065,10 @@ div {
                                     <div id="myCarousel8" class="carousel slide" data-ride="carousel">
                                         <!-- Indicators -->
                                         <ol class="carousel-indicators">
-                                            <li data-target="#myCarousel8" data-slide-to="0" class="activa"></li>
-                                            <li data-target="#myCarousel8" data-slide-to="1"></li>
-                                            <li data-target="#myCarousel8" data-slide-to="2"></li>
-                                            <li data-target="#myCarousel8" data-slide-to="3"></li>
+                                            <li data-target="#myCarousel8" data-slide-to="0" class="active activa"></li>
+                                            <li data-target="#myCarousel8" data-slide-to="1" class="noactiva"></li>
+                                            <li data-target="#myCarousel8" data-slide-to="2" class="noactiva"></li>
+                                            <li data-target="#myCarousel8" data-slide-to="3" class="noactiva"></li>
                                         </ol>
 
                                         <!-- Wrapper for slides -->
@@ -1153,10 +1153,10 @@ div {
                                 <div id="myCarousel9" class="carousel slide" data-ride="carousel">
                                     <!-- Indicators -->
                                     <ol class="carousel-indicators">
-                                        <li data-target="#myCarousel9" data-slide-to="0" class="activa"></li>
-                                        <li data-target="#myCarousel9" data-slide-to="1"></li>
-                                        <li data-target="#myCarousel9" data-slide-to="2"></li>
-                                        <li data-target="#myCarousel9" data-slide-to="3"></li>
+                                        <li data-target="#myCarousel9" data-slide-to="0" class="active activa"></li>
+                                        <li data-target="#myCarousel9" data-slide-to="1" class="noactiva"></li>
+                                        <li data-target="#myCarousel9" data-slide-to="2" class="noactiva"></li>
+                                        <li data-target="#myCarousel9" data-slide-to="3" class="noactiva"></li>
                                     </ol>
 
                                     <!-- Wrapper for slides -->
@@ -1273,9 +1273,9 @@ $(document).ready(function(){
 //        $('activa').addClass('active');
     }
     function activar(){ 
-        $('noactiva').removeClass('active');
-        $('activa').removeClass('active');
-        $('activa').addClass('active');
+        $('.noactiva').removeClass('active');
+        $('.activa').removeClass('active');
+        $('.activa').addClass('active');
     }
 
 
