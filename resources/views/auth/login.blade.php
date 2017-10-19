@@ -161,7 +161,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5438" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion5440"><rect id="rect5442" y="565.45" width="91" x="257" height="53"/></flowRegion><flowPara id="flowPara5444">VILLA DE L</flowPara></flowRoot>
-  <g id="g6688" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title1');" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title1');">
+  <g id="g6688" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title1');" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title1');">
    <desc id="desc6707">MICROREGION CENTRO SUR</desc>
    <title id="title6705">MICROREGION CENTRO SUR</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke-linecap="round" stroke-width="3" fill="#e74c3c">
@@ -176,7 +176,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5582" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion5584"><rect id="rect5586" y="1539.5" width="136" x="586" height="108"/></flowRegion><flowPara id="flowPara5588">VILLAJUAREZVIVI</flowPara></flowRoot>
-  <g id="g6709" data-toggle="modal" data-target="#myModal4" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title2')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title2')">
+  <g id="g6709" data-toggle="modal" data-target="#myModal4" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title2')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title2')">
    <desc id="desc6746">MICROREGION MEDIA OESTE</desc>
    <title id="title6744">MICROREGION MEDIA OESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#8e44ad">
@@ -201,7 +201,7 @@ div {
    <flowRoot id="flowRoot5648" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%"><flowRegion id="flowRegion5650"><rect id="rect5652" y="1767.5" width="156" x="944" height="50"/></flowRegion><flowPara id="flowPara5654">CARDENAS</flowPara></flowRoot>
    <flowRoot id="flowRoot5672" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%"><flowRegion id="flowRegion5674"><rect id="rect5676" y="2035.5" width="164" x="964" height="50"/></flowRegion><flowPara id="flowPara5678">LAGUNILLAS</flowPara></flowRoot>
   </g>
-  <g id="g6748" data-toggle="modal" data-target="#myModal5" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title3')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title3')">
+  <g id="g6748" data-toggle="modal" data-target="#myModal5" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title3')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title3')">
    <desc id="desc6783">MICROREGION MEDIA ESTE</desc>
    <title id="title6781">MICROREGION MEDIA ESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#1abc9c">
@@ -222,7 +222,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5748" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion5750"><rect id="rect5752" y="1977.5" width="188" x="1322" height="72"/></flowRegion><flowPara id="flowPara5754">AQUISMON</flowPara></flowRoot>
-  <g id="g6785"  data-toggle="modal" data-target="#myModal6" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title4')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title4')">
+  <g id="g6785"  data-toggle="modal" data-target="#myModal6" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title4')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title4')">
    <desc id="desc6825">MICROREGION HUASTECA NORTE</desc>
    <title id="title6823">MICROREGION HUASTECA NORTE</title>
    <g fill-rule="evenodd" stroke="#fff" stroke-width="3" fill="#27ae60">
@@ -248,7 +248,7 @@ div {
     </g>
    </g>
   </g>
-  <g id="g6895" data-toggle="modal" data-target="#myModal7" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title5')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title5')">
+  <g id="g6895" data-toggle="modal" data-target="#myModal7" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title5')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title5')">
    <desc id="desc6929">MICROREGION HUASTECA CENTRO</desc>
    <title id="title6927">MICROREGION HUASTECA CENTRO</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#2980b9">
@@ -269,7 +269,7 @@ div {
    </g>
   </g>
   <flowRoot id="flowRoot5998" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(694.28 68.797)" line-height="125%" font-size="40px" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion6000"><rect id="rect6002" y="1529.5" width="187" x="282" height="126"/></flowRegion><flowPara id="flowPara6004">ARMADILLOAR</flowPara></flowRoot>
-  <g id="g6622" data-toggle="modal" data-target="#myModal3" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title6')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title6')">
+  <g id="g6622" data-toggle="modal" data-target="#myModal3" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title6')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title6')">
    <desc id="desc6669">MICROREGION CENTRO</desc>
    <title id="title6667">MICROREGION CENTRO</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#c0392b">
@@ -321,7 +321,7 @@ div {
    <text id="text7805" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" font-size="40px" y="618.66522" x="13.920341" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan7807" sodipodi:role="line" font-size="40px" font-weight="bold" y="618.66522" x="13.920341" font-family="sans-serif"><tspan id="tspan7809" line-height="125%" y="618.66522" x="13.920341">MICROREGION</tspan><tspan id="tspan7811" line-height="125%" dx="0" y="618.66522" x="335.79535"/></tspan><tspan id="tspan7813" sodipodi:role="line" x="13.920341" y="668.66522"><tspan id="tspan7815" font-weight="bold" font-size="40px" line-height="125%" y="668.66522" x="13.920341" font-family="sans-serif">ALTIPLANO OESTE</tspan></tspan></text>
    <rect id="rect6160" stroke-linejoin="round" height="79.56" width="29.56" stroke="#7c7c7c" stroke-linecap="round" y="586.78" x="-37.803" stroke-width="2.4396" fill="#f39c12"/>
   </g>
-  <g id="g6569" data-toggle="modal" data-target="#myModal1" onclick="" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title7')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title7')">
+  <g id="g6569" data-toggle="modal" data-target="#myModal1" onclick="" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title7')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title7')">
    <desc id="desc6588">MICROREGION ALTIPLANO OESTE</desc>
    <title id="title6586">MICROREGION ALTIPLANO OESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#f39c12">
@@ -335,7 +335,7 @@ div {
     <text id="text7483" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" y="1334.6605" x="317.28421" sodipodi:linespacing="125%"><tspan id="tspan7485" sodipodi:role="line" x="317.28421" y="1334.6605"><tspan id="tspan7487" y="1334.6605" x="317.28421" font-size="27.5px">SALINAS</tspan></tspan></text>
    </g>
   </g>
-  <g id="g6590" data-toggle="modal" data-target="#myModal2" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title8')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title8')">
+  <g id="g6590" data-toggle="modal" data-target="#myModal2" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title8')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title8')">
    <desc id="desc6620">MICROREGION ALTIPLANO CENTRO</desc>
    <title id="title6618">MICROREGION ALTIPLANO CENTRO</title>
    <g fill-rule="evenodd" stroke="#fff" fill="#d35400">
@@ -355,7 +355,7 @@ div {
     <text id="text7443" style="word-spacing:0px;letter-spacing:0px" line-height="125%" xml:space="preserve" y="1371.6605" x="898.28418" sodipodi:linespacing="125%"><tspan id="tspan7445" sodipodi:role="line" x="898.28418" y="1371.6605"><tspan id="tspan7447" y="1371.6605" x="898.28418" font-size="27.5px">VILLA DE </tspan></tspan><tspan id="tspan7449" sodipodi:role="line" x="898.28418" y="1406.0355"><tspan id="tspan7451" y="1406.0355" x="898.28418" font-size="27.5px">ARISTA</tspan></tspan></text>
    </g>
   </g>
-  <g id="g6408" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title9')" onclick="" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title9')">
+  <g id="g6408" transform="matrix(.33134 0 0 .33134 808.64 838.06)" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title9')" onclick="" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title9')">
    <desc id="desc6447">MICROREGION ALTIPLANO ESTE</desc>
    <title id="title6445">MICROREGION ALTIPLANO ESTE</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#e67e22">
@@ -426,7 +426,7 @@ div {
    <text id="text8021" style="word-spacing:0px;letter-spacing:0px" font-weight="bold" xml:space="preserve" font-size="40px" line-height="125%" y="1559.3934" x="114.22756" font-family="sans-serif" sodipodi:linespacing="125%" fill="#000000"><tspan id="tspan8023" sodipodi:role="line" font-size="40px" font-weight="bold" y="1559.3934" x="114.22756" font-family="sans-serif"><tspan id="tspan8025" line-height="125%" y="1559.3934" x="114.22756">MICROREGION</tspan><tspan id="tspan8027" line-height="125%" dx="0" y="1559.3934" x="436.10257"/></tspan><tspan id="tspan8029" sodipodi:role="line" x="-5.1474404" y="1609.3934"><tspan id="tspan8031" font-weight="bold" font-size="40px" line-height="125%" y="1609.3934" x="-5.1474404" font-family="sans-serif">ALTIPLANO CENTRO</tspan></tspan></text>
    <rect id="rect6215" stroke-linejoin="round" height="79.694" width="29.694" stroke="#7c7c7c" stroke-linecap="round" y="1532.7" x="460.13" stroke-width="2.3063" fill="#d35400"/>
   </g>
-  <g id="g7028" transform="matrix(.33134 0 0 .33134 808.64 838.06)" data-toggle="modal" data-target="#myModal8" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title10')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title10')">
+  <g id="g7028" transform="matrix(.33134 0 0 .33134 808.64 838.06)" data-toggle="modal" data-target="#myModal8" onclick="activar()" onmouseout="setAttribute(&apos;fill-opacity&apos;,&apos;1.0&apos;); hidenames('title10')" onmouseover="setAttribute(&apos;fill-opacity&apos;,&apos;0.7&apos;); shownames('title10')">
    <desc id="desc7067">MICROREGION HUASTECA SUR</desc>
    <title id="title7065">MICROREGION HUASTECA SUR</title>
    <g stroke-linejoin="round" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-width="3" fill="#34495e">
@@ -466,7 +466,7 @@ div {
     </g>
    </g>
    <text id="text12573" style="word-spacing:0px;letter-spacing:0px" line-height="125%" sodipodi:linespacing="125%" font-size="40px" y="1172.9938" x="-711.15546" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan12575" y="1172.9938" x="-711.15546" sodipodi:role="line"><tspan id="tspan12577" y="1172.9938" x="-711.15546">Microrregión Altiplano Oeste                              </tspan></tspan></text>
-   <text id="text12579" style="word-spacing:0px;letter-spacing:0px" line-height="125%" sodipodi:linespacing="125%" font-size="40px" y="1237.2789" x="-612.92889" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan12581" y="0" x="-553.94452" sodipodi:role="line"><tspan id="tspan12583" y="1237.2789" x="-612.92889">1.</tspan><tspan id="tspan12585" y="1237.2789" x="-574.72577">	</tspan><tspan id="tspan12587" y="1237.2789" x="-553.94452">Programa ovino</tspan></tspan></text>
+   <text id="text12579" style="word-spacing:0px;letter-spacing:0px" line-height="125%" sodipodi:linespacing="125%" font-size="40px" y="1237.2789" x="-612.92889" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan id="tspan12581" y="0" x="-553.94452" sodipodi:role="line"><tspan id="tspan12583" y="1237.2789" x="-612.92889">1.</tspan><tspan id="tspan12585" y="1237.2789" x="-574.72577"> </tspan><tspan id="tspan12587" y="1237.2789" x="-553.94452">Programa ovino</tspan></tspan></text>
   </g>
   <g id="tooltip2" inkscape:label="#g13886" display="none">
    <title id="title13905">tooltip altiplano</title>
@@ -478,8 +478,8 @@ div {
    </g>
    <g font-size="40px" font-family="sans-serif" fill="#000000">
     <flowRoot id="flowRoot13839" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-461.4 3.2306)" line-height="125%"><flowRegion id="flowRegion13841"><rect id="rect13843" y="524.48" x="133" width="575" height="185"/></flowRegion><flowPara id="flowPara13845">Microrregión Altiplano </flowPara></flowRoot>
-    <flowRoot id="flowRoot13847" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-610.11 17.108)" line-height="125%"><flowRegion id="flowRegion13849"><rect id="rect13851" y="580.48" x="138" width="747" height="109"/></flowRegion><flowPara id="flowPara13853">1.	Disminución de la carencia social </flowPara></flowRoot>
-    <flowRoot id="flowRoot13864" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-545.09 29.231)" line-height="125%"><flowRegion id="flowRegion13866"><rect id="rect13868" y="630.48" x="127" width="640" height="69"/></flowRegion><flowPara id="flowPara13870">2.	De acceso a la alimentación</flowPara></flowRoot>
+    <flowRoot id="flowRoot13847" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-610.11 17.108)" line-height="125%"><flowRegion id="flowRegion13849"><rect id="rect13851" y="580.48" x="138" width="747" height="109"/></flowRegion><flowPara id="flowPara13853">1.  Disminución de la carencia social </flowPara></flowRoot>
+    <flowRoot id="flowRoot13864" style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" transform="translate(-545.09 29.231)" line-height="125%"><flowRegion id="flowRegion13866"><rect id="rect13868" y="630.48" x="127" width="640" height="69"/></flowRegion><flowPara id="flowPara13870">2. De acceso a la alimentación</flowPara></flowRoot>
    </g>
   </g>
  </g>
@@ -509,7 +509,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                  1.	Programa ovino</a>
+                  1.  Programa ovino</a>
                 </h4>
               </div>
               <div id="collapse1" class="panel-collapse collapse in">
@@ -518,7 +518,7 @@ div {
                       <div id="myCarousel" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                          <li data-target="#myCarousel" data-slide-to="0" class="activa"></li>
                           <li data-target="#myCarousel" data-slide-to="1"></li>
                           <li data-target="#myCarousel" data-slide-to="2"></li>
                           <li data-target="#myCarousel" data-slide-to="3"></li>
@@ -526,19 +526,19 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item active">
+                          <div class="item activa">
                             <img src="PM/AO0101/PM-01.png" alt="">
                           </div>
                             
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/AO0101/PM-10.png" alt="">
                           </div>
                             
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/AO0101/PM-11.png" alt="">
                           </div>
                             
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/AO0101/PM-36.png" alt="">
                           </div>
 
@@ -589,7 +589,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                  1.	Disminución de la carencia social</a>
+                  1.  Disminución de la carencia social</a>
                 </h4>
               </div>
               <!--<div id="collapse2" class="panel-collapse collapse ">
@@ -602,7 +602,7 @@ div {
               <div class="panel-heading">
                 <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                  2.	De acceso a la alimentación</a>
+                  2.  De acceso a la alimentación</a>
                 </h4>
               </div>
               <div id="collapse3" class="panel-collapse collapse">
@@ -611,7 +611,7 @@ div {
                       <div id="myCarousel3" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel3" data-slide-to="0"></li>
+                          <li data-target="#myCarousel3" data-slide-to="0" class="activa"></li>
                           <li data-target="#myCarousel3" data-slide-to="1"></li>
                           <li data-target="#myCarousel3" data-slide-to="2"></li>
                           <li data-target="#myCarousel3" data-slide-to="3"></li>
@@ -619,19 +619,19 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item active">
+                          <div class="item activa">
                             <img src="PM/AC0102/PM-02.png" alt="">
                           </div>
 
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/AC0102/PM-12.png" alt="">
                           </div>
 
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/AC0102/PM-13.png" alt="">
                           </div>
                             
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/AC0102/PM-14.png" alt="">
                           </div>
                         </div>
@@ -741,7 +741,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
-                  1.	Agroparque alimentario </a>
+                  1.  Agroparque alimentario </a>
                 </h4>
               </div>
               <div id="collapse6" class="panel-collapse collapse in">
@@ -750,7 +750,7 @@ div {
                       <div id="myCarousel4" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel4" data-slide-to="0" class="active"></li>
+                          <li data-target="#myCarousel4" data-slide-to="0" class="activa"></li>
                           <li data-target="#myCarousel4" data-slide-to="1"></li>
                           <li data-target="#myCarousel4" data-slide-to="2"></li>
                           <li data-target="#myCarousel4" data-slide-to="3"></li>
@@ -758,19 +758,19 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item active">
+                          <div class="item activa">
                             <img src="PM/MO0103/PM-03.png" alt="">
                           </div>
                           
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/MO0103/PM-15.png" alt="">
                           </div>
                             
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/MO0103/PM-16.png" alt="">
                           </div>
                           
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/MO0103/PM-17.png" alt="">
                           </div>
                         </div>
@@ -828,7 +828,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
-                  1.	Proyecto microregional de base pecuaria </a>
+                  1.  Proyecto microregional de base pecuaria </a>
                 </h4>
               </div>
               <div id="collapse7" class="panel-collapse collapse in">
@@ -837,7 +837,7 @@ div {
                       <div id="myCarousel5" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel5" data-slide-to="0" class="active"></li>
+                          <li data-target="#myCarousel5" data-slide-to="0" class="activa"></li>
                           <li data-target="#myCarousel5" data-slide-to="1"></li>
                           <li data-target="#myCarousel5" data-slide-to="2"></li>
                           <li data-target="#myCarousel5" data-slide-to="3"></li>
@@ -845,7 +845,7 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item active">
+                          <div class="item activa">
                               <img src="PM/ME0104/PM-04.png" alt="">
                           </div>
                             
@@ -921,7 +921,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
-                  1.	Pujal Coy 2a Fase</a>
+                  1.  Pujal Coy 2a Fase</a>
                 </h4>
               </div>
               <div id="collapse8" class="panel-collapse collapse in">
@@ -930,7 +930,7 @@ div {
                       <div id="myCarousel6" class="carousel slide" data-ride="carousel">
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
-                          <li data-target="#myCarousel6" data-slide-to="0" class="active"></li>
+                          <li data-target="#myCarousel6" data-slide-to="0" class="activa"></li>
                           <li data-target="#myCarousel6" data-slide-to="1"></li>
                           <li data-target="#myCarousel6" data-slide-to="2"></li>
                           <li data-target="#myCarousel6" data-slide-to="3"></li>
@@ -938,19 +938,19 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item active">
+                          <div class="item activa">
                               <img src="PM/HN0105/PM-05.png" alt="">
                           </div>
 
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/HN0105/PM-18.png" alt="">
                           </div>
 
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/HN0105/PM-19.png" alt="">
                           </div>
                             
-                          <div class="item">
+                          <div class="item noactiva">
                             <img src="PM/HN0105/PM-20.png" alt="">
                           </div>
                         </div>
@@ -1003,7 +1003,7 @@ div {
                         <div class="panel-heading">
                             <h4 class="panel-title" style="text-align: left;">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
-                                    1.	Plan concertado para el desarrollo de la región piloncillera</a>
+                                    1.  Plan concertado para el desarrollo de la región piloncillera</a>
                             </h4>
                         </div>
                         <div id="collapse9" class="panel-collapse collapse ">
@@ -1012,7 +1012,7 @@ div {
                                 <div id="myCarousel7" class="carousel slide" data-ride="carousel">
                                     <!-- Indicators -->
                                     <ol class="carousel-indicators">
-                                        <li data-target="#myCarousel7" data-slide-to="0" class="active"></li>
+                                        <li data-target="#myCarousel7" data-slide-to="0" class="activa"></li>
                                         <li data-target="#myCarousel7" data-slide-to="1"></li>
                                         <li data-target="#myCarousel7" data-slide-to="2"></li>
                                         <li data-target="#myCarousel7" data-slide-to="3"></li>
@@ -1020,19 +1020,19 @@ div {
 
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
-                                        <div class="item active">
+                                        <div class="item activa">
                                             <img src="PM/HC0106/PM-06.png" alt="">
                                         </div>
 
-                                        <div class="item">
+                                        <div class="item noactiva">
                                             <img src="PM/HC0106/PM-21.png" alt="">
                                         </div>
 
-                                        <div class="item">
+                                        <div class="item noactiva">
                                             <img src="PM/HC0106/PM-22.png" alt="">
                                         </div>
 
-                                        <div class="item">
+                                        <div class="item noactiva">
                                             <img src="PM/HC0106/PM-23.png" alt="">
                                         </div>
                                     </div>
@@ -1056,7 +1056,7 @@ div {
                             <div class="panel-heading">
                                 <h4 class="panel-title" style="text-align: left;">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">
-                                        2.	Plan Rector de la Zona Indigena de la Huasteca</a>
+                                        2.  Plan Rector de la Zona Indigena de la Huasteca</a>
                                 </h4>
                             </div>
                             <div id="collapse10" class="panel-collapse collapse ">
@@ -1065,7 +1065,7 @@ div {
                                     <div id="myCarousel8" class="carousel slide" data-ride="carousel">
                                         <!-- Indicators -->
                                         <ol class="carousel-indicators">
-                                            <li data-target="#myCarousel8" data-slide-to="0" class="active"></li>
+                                            <li data-target="#myCarousel8" data-slide-to="0" class="activa"></li>
                                             <li data-target="#myCarousel8" data-slide-to="1"></li>
                                             <li data-target="#myCarousel8" data-slide-to="2"></li>
                                             <li data-target="#myCarousel8" data-slide-to="3"></li>
@@ -1073,19 +1073,19 @@ div {
 
                                         <!-- Wrapper for slides -->
                                         <div class="carousel-inner">
-                                            <div class="item active">
+                                            <div class="item activa">
                                                 <img src="PM/HC0207/PM-07.png" alt="">
                                             </div>
 
-                                            <div class="item">
+                                            <div class="item noactiva">
                                                 <img src="PM/HC0207/PM-24.png" alt="">
                                             </div>
 
-                                            <div class="item">
+                                            <div class="item noactiva">
                                                 <img src="PM/HC0207/PM-25.png" alt="">
                                             </div>
 
-                                            <div class="item">
+                                            <div class="item noactiva">
                                                 <img src="PM/HC0207/PM-26.png" alt="">
                                             </div>
                                         </div>
@@ -1144,7 +1144,7 @@ div {
                         <div class="panel-heading">
                             <h4 class="panel-title" style="text-align: left;">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">
-                                    1.	Centro de acopio y transformación rural cafetalero</a>
+                                    1.  Centro de acopio y transformación rural cafetalero</a>
                             </h4>
                         </div>
                         <div id="collapse11" class="panel-collapse collapse ">
@@ -1153,7 +1153,7 @@ div {
                                 <div id="myCarousel9" class="carousel slide" data-ride="carousel">
                                     <!-- Indicators -->
                                     <ol class="carousel-indicators">
-                                        <li data-target="#myCarousel9" data-slide-to="0" class="active"></li>
+                                        <li data-target="#myCarousel9" data-slide-to="0" class="activa"></li>
                                         <li data-target="#myCarousel9" data-slide-to="1"></li>
                                         <li data-target="#myCarousel9" data-slide-to="2"></li>
                                         <li data-target="#myCarousel9" data-slide-to="3"></li>
@@ -1161,19 +1161,19 @@ div {
 
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
-                                        <div class="item active">
+                                        <div class="item activa">
                                             <img src="PM/HSO0108/PM-08.png" alt="">
                                         </div>
 
-                                        <div class="item">
+                                        <div class="item noactiva">
                                             <img src="PM/HSO0108/PM-27.png" alt="">
                                         </div>
 
-                                        <div class="item">
+                                        <div class="item noactiva">
                                             <img src="PM/HSO0108/PM-28.png" alt="">
                                         </div>
 
-                                        <div class="item">
+                                        <div class="item noactiva">
                                             <img src="PM/HSO0108/PM-29.png" alt="">
                                         </div>
                                     </div>
@@ -1197,7 +1197,7 @@ div {
                             <div class="panel-heading">
                                 <h4 class="panel-title" style="text-align: left;">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">
-                                        2.	Plan Rector de la Zona Indigena de la Huasteca</a>
+                                        2.  Plan Rector de la Zona Indigena de la Huasteca</a>
                                 </h4>
                             </div>
                             <!--<div id="collapse12" class="panel-collapse collapse ">
@@ -1232,9 +1232,9 @@ div {
         
       
         
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script>
                 
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
@@ -1243,19 +1243,19 @@ div {
                 <script>
       
 $(document).ready(function(){
-	$('[data-toggle="popover"]').popover();
-	$('.popover-dismiss').popover({
-  		trigger: 'focus'
-	});
+  $('[data-toggle="popover"]').popover();
+  $('.popover-dismiss').popover({
+      trigger: 'focus'
+  });
     $('[data-toggle="tooltip"]').tooltip();
     $(".show-tt").click(function(){
-   		$(".hover-tooltip a").tooltip('show');
+      $(".hover-tooltip a").tooltip('show');
     });
     $(".hide-tt").click(function(){
-   		$(".hover-tooltip a").tooltip('hide');
+      $(".hover-tooltip a").tooltip('hide');
     });
     $(".toggle-tt").click(function(){
-   		$(".hover-tooltip a").tooltip('toggle');
+      $(".hover-tooltip a").tooltip('toggle');
     });
     $(".destroy-tt").click(function(){
       $(".hover-tooltip a").tooltip('destroy'); // destroy
@@ -1264,9 +1264,17 @@ $(document).ready(function(){
 
     function shownames(id){
         $('#'+id).removeAttr('style'); 
+//        $('noactiva').removeClass('active');
+//        $('activa').addClass('active');
     } 
     function hidenames(id){ 
         $('#'+id).attr('style','display:none'); 
+//        $('noactiva').removeClass('active');
+//        $('activa').addClass('active');
+    }
+    function activar(){ 
+        $('noactiva').removeClass('active');
+        $('activa').addClass('active');
     }
 
 
