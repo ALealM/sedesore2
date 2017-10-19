@@ -87,6 +87,28 @@ user agent stylesheet
 div {
     display: block;
 }
+
+.fullscreen-modal .modal-dialog {
+  margin: 0;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+@media (min-width: 768px) {
+  .fullscreen-modal .modal-dialog {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .fullscreen-modal .modal-dialog {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .fullscreen-modal .modal-dialog {
+     width: 1170px;
+  }
+}
     </style>
         
       
@@ -492,7 +514,7 @@ div {
 
 
 <!-- Modal -->
-<div id="myModal1" class="modal fade" role="dialog">
+<div id="myModal1" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
     <!-- Modal content-->
@@ -572,7 +594,7 @@ div {
 
 
 <!-- Modal -->
-<div id="myModal2" class="modal fade" role="dialog">
+<div id="myModal2" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
     <!-- Modal content-->
@@ -673,7 +695,7 @@ div {
 
 
 <!-- Modal -->
-<div id="myModal3" class="modal fade" role="dialog">
+<div id="myModal3" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
     <!-- Modal content-->
@@ -724,7 +746,7 @@ div {
 
 
 <!-- Modal -->
-<div id="myModal4" class="modal fade" role="dialog">
+<div id="myModal4" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
     <!-- Modal content-->
@@ -811,7 +833,7 @@ div {
 
 
 <!-- Modal -->
-<div id="myModal5" class="modal fade" role="dialog">
+<div id="myModal5" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
     <!-- Modal content-->
@@ -904,7 +926,7 @@ div {
 
 
 
-<div id="myModal6" class="modal fade" role="dialog">
+<div id="myModal6" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
     <!-- Modal content-->
@@ -986,7 +1008,7 @@ div {
 
 
 
-<div id="myModal7" class="modal fade" role="dialog">
+<div id="myModal7" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
         <!-- Modal content-->
@@ -1127,7 +1149,7 @@ div {
     
     
 
-<div id="myModal8" class="modal fade" role="dialog">
+<div id="myModal8" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
         <!-- Modal content-->
@@ -1228,7 +1250,7 @@ div {
 
 
 <!-- Modal -->
-<div id="myModal9" class="modal fade" role="dialog">
+<div id="myModal9" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
     <!-- Modal content-->
@@ -1277,7 +1299,7 @@ div {
 
 
 <!-- Modal -->
-<div id="myModal10" class="modal fade" role="dialog">
+<div id="myModal10" class="modal fullscreen-modal fade" role="dialog">
     <div class="modal-dialog" style="width: 900px; height: auto;">
 
     <!-- Modal content-->
