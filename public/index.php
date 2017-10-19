@@ -526,7 +526,7 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item activa">
+                          <div class="item active activa">
                             <img src="PM/AO0101/PM-01.png" alt="">
                           </div>
                             
@@ -619,7 +619,7 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item activa">
+                          <div class="item active activa">
                             <img src="PM/AC0102/PM-02.png" alt="">
                           </div>
 
@@ -758,7 +758,7 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item activa">
+                          <div class="item active activa">
                             <img src="PM/MO0103/PM-03.png" alt="">
                           </div>
                           
@@ -845,7 +845,7 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item activa">
+                          <div class="item active activa">
                               <img src="PM/ME0104/PM-04.png" alt="">
                           </div>
                             
@@ -938,7 +938,7 @@ div {
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
-                          <div class="item activa">
+                          <div class="item active activa">
                               <img src="PM/HN0105/PM-05.png" alt="">
                           </div>
 
@@ -1020,7 +1020,7 @@ div {
 
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
-                                        <div class="item activa">
+                                        <div class="item active activa">
                                             <img src="PM/HC0106/PM-06.png" alt="">
                                         </div>
 
@@ -1073,7 +1073,7 @@ div {
 
                                         <!-- Wrapper for slides -->
                                         <div class="carousel-inner">
-                                            <div class="item activa">
+                                            <div class="item active activa">
                                                 <img src="PM/HC0207/PM-07.png" alt="">
                                             </div>
 
@@ -1161,7 +1161,7 @@ div {
 
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
-                                        <div class="item activa">
+                                        <div class="item active activa">
                                             <img src="PM/HSO0108/PM-08.png" alt="">
                                         </div>
 
@@ -1274,6 +1274,7 @@ $(document).ready(function(){
     }
     function activar(){ 
         $('noactiva').removeClass('active');
+        $('activa').removeClass('active');
         $('activa').addClass('active');
     }
 
