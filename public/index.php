@@ -531,7 +531,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                  1.  Programa ovino</a>
+                  Recuperación liderazgo carne y lana</a>
                 </h4>
               </div>
               <div id="collapse1" class="panel-collapse collapse in">
@@ -541,29 +541,13 @@ div {
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                          <li data-target="#myCarousel" data-slide-to="1"></li>
-                          <li data-target="#myCarousel" data-slide-to="2"></li>
-                          <li data-target="#myCarousel" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                            <img src="PM/AO0101/PM-01.png" alt="" class="img-responsive">
+                            <img src="PM/PM1/01.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
-                            
-                          <div class="item">
-                            <img src="PM/AO0101/PM-10.png" alt="" class="img-responsive">
-                          </div>
-                            
-                          <div class="item">
-                            <img src="PM/AO0101/PM-11.png" alt="" class="img-responsive">
-                          </div>
-                            
-                          <div class="item">
-                            <img src="PM/AO0101/PM-36.png" alt="" class="img-responsive">
-                          </div>
-
                         </div>
 
                         <!-- Left and right controls -->
@@ -577,6 +561,43 @@ div {
                         </a>
                       </div>
                       <!----------->
+                  </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                  <h4 class="panel-title" style="text-align: left;">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+                  Acceso alimentario </a>
+                </h4>
+              </div>
+              <div id="collapse2" class="panel-collapse collapse ">
+                  <div class="panel-body">
+                      <!---->
+                      <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="false">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                          <li data-target="#myCarousel11" data-slide-to="0" class="active"></li>
+                        </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                          <div class="item active">
+                            <img src="PM/PM2/02.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                          </div>
+                        </div>
+
+                        <!-- Left and right controls -->
+                        <a class="left carousel-control" href="#myCarousel11" data-slide="prev">
+                          <span class="glyphicon glyphicon-chevron-left"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#myCarousel11" data-slide="next">
+                          <span class="glyphicon glyphicon-chevron-right"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                      <!---->
                   </div>
               </div>
             </div>
@@ -607,24 +628,12 @@ div {
         <!----------->
         
         <div class="panel-group" id="accordion">
-            <div class="panel panel-default">
-              <div class="panel-heading">
-                  <h4 class="panel-title" style="text-align: left;">
-                  <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                  1.  Disminución de la carencia social</a>
-                </h4>
-              </div>
-              <div id="collapse2" class="panel-collapse collapse ">
-                  <div class="panel-body">
-                      <p>-</p>
-                  </div>
-              </div>
-            </div>
+            
             <div class="panel panel-default">
               <div class="panel-heading">
                 <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-                  2.  De acceso a la alimentación</a>
+                  Acceso alimentario </a>
                 </h4>
               </div>
               <div id="collapse3" class="panel-collapse collapse">
@@ -634,27 +643,12 @@ div {
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
-                          <li data-target="#myCarousel3" data-slide-to="1"></li>
-                          <li data-target="#myCarousel3" data-slide-to="2"></li>
-                          <li data-target="#myCarousel3" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                            <img src="PM/AC0102/PM-02.png" alt="" class="img-responsive">
-                          </div>
-
-                          <div class="item">
-                            <img src="PM/AC0102/PM-12.png" alt="" class="img-responsive">
-                          </div>
-
-                          <div class="item">
-                            <img src="PM/AC0102/PM-13.png" alt="" class="img-responsive">
-                          </div>
-                            
-                          <div class="item">
-                            <img src="PM/AC0102/PM-14.png" alt="" class="img-responsive">
+                            <img src="PM/PM2/02.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                         </div>
 
@@ -763,7 +757,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">
-                  1.  Agroparque alimentario </a>
+                  Agroparque alimentario </a>
                 </h4>
               </div>
               <div id="collapse6" class="panel-collapse collapse in">
@@ -773,27 +767,12 @@ div {
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel4" data-slide-to="0" class="active"></li>
-                          <li data-target="#myCarousel4" data-slide-to="1"></li>
-                          <li data-target="#myCarousel4" data-slide-to="2"></li>
-                          <li data-target="#myCarousel4" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                            <img src="PM/MO0103/PM-03.png" alt="" class="img-responsive">
-                          </div>
-                          
-                          <div class="item">
-                            <img src="PM/MO0103/PM-15.png" alt="" class="img-responsive">
-                          </div>
-                            
-                          <div class="item">
-                            <img src="PM/MO0103/PM-16.png" alt="" class="img-responsive">
-                          </div>
-                          
-                          <div class="item">
-                            <img src="PM/MO0103/PM-17.png" alt="" class="img-responsive">
+                            <img src="PM/PM3/03.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                         </div>
 
@@ -850,7 +829,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">
-                  1.  Proyecto microregional de base pecuaria </a>
+                  Creación de empleo e ingreso zonas de extrema pobreza vía: Actividad Ganadera</a>
                 </h4>
               </div>
               <div id="collapse7" class="panel-collapse collapse in">
@@ -860,29 +839,13 @@ div {
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel5" data-slide-to="0" class="active"></li>
-                          <li data-target="#myCarousel5" data-slide-to="1"></li>
-                          <li data-target="#myCarousel5" data-slide-to="2"></li>
-                          <li data-target="#myCarousel5" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                              <img src="PM/ME0104/PM-04.png" alt="" class="img-responsive">
+                              <img src="PM/PM4/04.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
-                            
-                          <div class="item ">
-                              <img src="PM/ME0104/PM-33.png" alt="" class="img-responsive">
-                          </div>
-                            
-                          <div class="item ">
-                              <img src="PM/ME0104/PM-34.png" alt="" class="img-responsive">
-                          </div>
-                            
-                          <div class="item ">
-                              <img src="PM/ME0104/PM-35.png" alt="" class="img-responsive">
-                          </div>
-                            
                         </div>
  
                         <!-- Left and right controls -->
@@ -943,7 +906,7 @@ div {
               <div class="panel-heading">
                   <h4 class="panel-title" style="text-align: left;">
                   <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">
-                  1.  Pujal Coy 2a Fase</a>
+                  Pujal Coy 2da y 3er Etapa</a>
                 </h4>
               </div>
               <div id="collapse8" class="panel-collapse collapse in">
@@ -953,27 +916,12 @@ div {
                         <!-- Indicators -->
                         <ol class="carousel-indicators">
                           <li data-target="#myCarousel6" data-slide-to="0" class="active"></li>
-                          <li data-target="#myCarousel6" data-slide-to="1"></li>
-                          <li data-target="#myCarousel6" data-slide-to="2"></li>
-                          <li data-target="#myCarousel6" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                           <div class="item active">
-                              <img src="PM/HN0105/PM-05.png" alt="" class="img-responsive">
-                          </div>
-
-                          <div class="item">
-                            <img src="PM/HN0105/PM-18.png" alt="" class="img-responsive">
-                          </div>
-
-                          <div class="item">
-                            <img src="PM/HN0105/PM-19.png" alt="" class="img-responsive">
-                          </div>
-                            
-                          <div class="item">
-                            <img src="PM/HN0105/PM-20.png" alt="" class="img-responsive">
+                              <img src="PM/PM5/05.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                         </div>
  
@@ -1025,7 +973,7 @@ div {
                         <div class="panel-heading">
                             <h4 class="panel-title" style="text-align: left;">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">
-                                    1.  Plan concertado para el desarrollo de la región piloncillera</a>
+                                    Plan Piloncillero </a>
                             </h4>
                         </div>
                         <div id="collapse9" class="panel-collapse collapse ">
@@ -1035,27 +983,12 @@ div {
                                     <!-- Indicators -->
                                     <ol class="carousel-indicators">
                                         <li data-target="#myCarousel7" data-slide-to="0" class="active"></li>
-                                        <li data-target="#myCarousel7" data-slide-to="1"></li>
-                                        <li data-target="#myCarousel7" data-slide-to="2"></li>
-                                        <li data-target="#myCarousel7" data-slide-to="3"></li>
                                     </ol>
 
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                            <img src="PM/HC0106/PM-06.png" alt="" class="img-responsive">
-                                        </div>
-
-                                        <div class="item">
-                                            <img src="PM/HC0106/PM-21.png" alt="" class="img-responsive">
-                                        </div>
-
-                                        <div class="item">
-                                            <img src="PM/HC0106/PM-22.png" alt="" class="img-responsive">
-                                        </div>
-
-                                        <div class="item">
-                                            <img src="PM/HC0106/PM-23.png" alt="" class="img-responsive">
+                                            <img src="PM/PM6/06.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                     </div>
 
@@ -1071,63 +1004,6 @@ div {
                                 </div>
                                 <!----------->
                             </div>
-                        </div>
-
-
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title" style="text-align: left;">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">
-                                        2.  Plan Rector de la Zona Indígena de la Huasteca</a>
-                                </h4>
-                            </div>
-                            <div id="collapse10" class="panel-collapse collapse ">
-                                <div class="panel-body">
-                                    <!----------->
-                                    <div id="myCarousel8" class="carousel slide" data-ride="carousel" data-interval="false">
-                                        <!-- Indicators -->
-                                        <ol class="carousel-indicators">
-                                            <li data-target="#myCarousel8" data-slide-to="0" class="active"></li>
-                                            <li data-target="#myCarousel8" data-slide-to="1"></li>
-                                            <li data-target="#myCarousel8" data-slide-to="2"></li>
-                                            <li data-target="#myCarousel8" data-slide-to="3"></li>
-                                        </ol>
-
-                                        <!-- Wrapper for slides -->
-                                        <div class="carousel-inner">
-                                            <div class="item active">
-                                                <img src="PM/HC0207/PM-07.png" alt="" class="img-responsive">
-                                            </div>
-
-                                            <div class="item">
-                                                <img src="PM/HC0207/PM-24.png" alt="" class="img-responsive">
-                                            </div>
-
-                                            <div class="item">
-                                                <img src="PM/HC0207/PM-25.png" alt="" class="img-responsive">
-                                            </div>
-
-                                            <div class="item">
-                                                <img src="PM/HC0207/PM-26.png" alt="" class="img-responsive">
-                                            </div>
-                                        </div>
-
-                                        <!-- Left and right controls -->
-                                        <a class="left carousel-control" href="#myCarousel8" data-slide="prev">
-                                            <span class="glyphicon glyphicon-chevron-left"></span>
-                                            <span class="sr-only">Previous</span>
-                                        </a>
-                                        <a class="right carousel-control" href="#myCarousel8" data-slide="next">
-                                            <span class="glyphicon glyphicon-chevron-right"></span>
-                                            <span class="sr-only">Next</span>
-                                        </a>
-                                    </div>
-                                    <!----------->
-                                </div>
-                            </div>
-
-
-
                         </div>
 
                     </div>
@@ -1156,7 +1032,7 @@ div {
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Microrregión Huasteca Suroeste</h4>
+                <h4 class="modal-title">Microrregión Huasteca Sur</h4>
             </div>
             <div class="modal-body">
                 <!----------->
@@ -1166,7 +1042,7 @@ div {
                         <div class="panel-heading">
                             <h4 class="panel-title" style="text-align: left;">
                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">
-                                    1.  Centro de acopio y transformación rural cafetalero</a>
+                                   Industrialización Cafetalera </a>
                             </h4>
                         </div>
                         <div id="collapse11" class="panel-collapse collapse ">
@@ -1176,27 +1052,12 @@ div {
                                     <!-- Indicators -->
                                     <ol class="carousel-indicators">
                                         <li data-target="#myCarousel9" data-slide-to="0" class="active"></li>
-                                        <li data-target="#myCarousel9" data-slide-to="1"></li>
-                                        <li data-target="#myCarousel9" data-slide-to="2"></li>
-                                        <li data-target="#myCarousel9" data-slide-to="3"></li>
                                     </ol>
 
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                            <img src="PM/HSO0108/PM-08.png" alt="" class="img-responsive">
-                                        </div>
-
-                                        <div class="item">
-                                            <img src="PM/HSO0108/PM-27.png" alt="" class="img-responsive">
-                                        </div>
-
-                                        <div class="item">
-                                            <img src="PM/HSO0108/PM-28.png" alt="" class="img-responsive">
-                                        </div>
-
-                                        <div class="item">
-                                            <img src="PM/HSO0108/PM-29.png" alt="" class="img-responsive">
+                                            <img src="PM/PM7/07.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                     </div>
 
@@ -1219,12 +1080,36 @@ div {
                             <div class="panel-heading">
                                 <h4 class="panel-title" style="text-align: left;">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse12">
-                                       2. Desarrollo y Comercialización de la palma camedor</a>
+                                       Creación de empleo e ingreso zonas de extrema pobreza vía: Palma Camedor</a>
                                 </h4>
                             </div>
                             <div id="collapse12" class="panel-collapse collapse ">
                                 <div class="panel-body">
-                                    <p>-</p>
+                                    <!----------->
+                                <div id="myCarousel12" class="carousel slide" data-ride="carousel" data-interval="false">
+                                    <!-- Indicators -->
+                                    <ol class="carousel-indicators">
+                                        <li data-target="#myCarousel12" data-slide-to="0" class="active"></li>
+                                    </ol>
+
+                                    <!-- Wrapper for slides -->
+                                    <div class="carousel-inner">
+                                        <div class="item active">
+                                            <img src="PM/PM8/08.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                        </div>
+                                    </div>
+
+                                    <!-- Left and right controls -->
+                                    <a class="left carousel-control" href="#myCarousel12" data-slide="prev">
+                                        <span class="glyphicon glyphicon-chevron-left"></span>
+                                        <span class="sr-only">Previous</span>
+                                    </a>
+                                    <a class="right carousel-control" href="#myCarousel12" data-slide="next">
+                                        <span class="glyphicon glyphicon-chevron-right"></span>
+                                        <span class="sr-only">Next</span>
+                                    </a>
+                                </div>
+                                <!----------->
                                 </div>
                             </div>
 
