@@ -543,6 +543,7 @@ div {
                           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                           <li data-target="#myCarousel" data-slide-to="1"></li>
                           <li data-target="#myCarousel" data-slide-to="2"></li>
+                          <li data-target="#myCarousel" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -557,6 +558,10 @@ div {
                             
                           <div class="item">
                             <img src="PM/PM1/03.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                          </div>
+                            
+                          <div class="item">
+                            <img src="PM/PM1/04.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                         </div>
 
@@ -590,6 +595,7 @@ div {
                           <li data-target="#myCarousel11" data-slide-to="0" class="active"></li>
                           <li data-target="#myCarousel11" data-slide-to="1"></li>
                           <li data-target="#myCarousel11" data-slide-to="2"></li>
+                          <li data-target="#myCarousel11" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -604,6 +610,10 @@ div {
                             
                           <div class="item ">
                             <img src="PM/PM2/203.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                          </div>
+                            
+                          <div class="item ">
+                            <img src="PM/PM2/204.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                             
                         </div>
@@ -666,6 +676,7 @@ div {
                           <li data-target="#myCarousel3" data-slide-to="0" class="active"></li>
                           <li data-target="#myCarousel3" data-slide-to="1"></li>
                           <li data-target="#myCarousel3" data-slide-to="2"></li>
+                          <li data-target="#myCarousel3" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -680,6 +691,10 @@ div {
                             
                           <div class="item ">
                             <img src="PM/PM2/203.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                          </div>
+                            
+                          <div class="item ">
+                            <img src="PM/PM2/204.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                         </div>
 
@@ -800,6 +815,7 @@ div {
                           <li data-target="#myCarousel4" data-slide-to="0" class="active"></li>
                           <li data-target="#myCarousel4" data-slide-to="1"></li>
                           <li data-target="#myCarousel4" data-slide-to="2"></li>
+                          <li data-target="#myCarousel4" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -814,6 +830,10 @@ div {
                             
                           <div class="item ">
                             <img src="PM/PM3/303.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                          </div>
+                            
+                          <div class="item ">
+                            <img src="PM/PM3/304.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                         </div>
 
@@ -882,6 +902,7 @@ div {
                           <li data-target="#myCarousel5" data-slide-to="0" class="active"></li>
                           <li data-target="#myCarousel5" data-slide-to="1"></li>
                           <li data-target="#myCarousel5" data-slide-to="2"></li>
+                          <li data-target="#myCarousel5" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -896,6 +917,10 @@ div {
                             
                           <div class="item">
                               <img src="PM/PM4/403.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                          </div>
+                            
+                          <div class="item">
+                              <img src="PM/PM4/404.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                         </div>
  
@@ -969,6 +994,7 @@ div {
                           <li data-target="#myCarousel6" data-slide-to="0" class="active"></li>
                           <li data-target="#myCarousel6" data-slide-to="1"></li>
                           <li data-target="#myCarousel6" data-slide-to="2"></li>
+                          <li data-target="#myCarousel6" data-slide-to="3"></li>
                         </ol>
 
                         <!-- Wrapper for slides -->
@@ -983,6 +1009,10 @@ div {
                             
                           <div class="item ">
                               <img src="PM/PM5/503.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                          </div>
+                            
+                          <div class="item ">
+                              <img src="PM/PM5/504.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                           </div>
                         </div>
  
@@ -1046,6 +1076,7 @@ div {
                                         <li data-target="#myCarousel7" data-slide-to="0" class="active"></li>
                                         <li data-target="#myCarousel7" data-slide-to="1"></li>
                                         <li data-target="#myCarousel7" data-slide-to="2"></li>
+                                        <li data-target="#myCarousel7" data-slide-to="3"></li>
                                     </ol>
 
                                     <!-- Wrapper for slides -->
@@ -1060,6 +1091,10 @@ div {
                                         
                                         <div class="item ">
                                             <img src="PM/PM6/603.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                        </div>
+                                        
+                                        <div class="item ">
+                                            <img src="PM/PM6/604.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                     </div>
 
@@ -1080,6 +1115,64 @@ div {
                     </div>
 
                     <!----------->
+                    
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title" style="text-align: left;">
+                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">
+                                    Desarrollo Integral Indígena </a>
+                            </h4>
+                        </div>
+                        <div id="collapse10" class="panel-collapse collapse ">
+                            <div class="panel-body">
+                                <!----------->
+                                <div id="myCarousel10" class="carousel slide" data-ride="carousel" data-interval="false">
+                                    <!-- Indicators -->
+                                    <ol class="carousel-indicators">
+                                        <li data-target="#myCarousel10" data-slide-to="0" class="active"></li>
+                                        <li data-target="#myCarousel10" data-slide-to="1"></li>
+                                        <li data-target="#myCarousel10" data-slide-to="2"></li>
+                                        <li data-target="#myCarousel10" data-slide-to="3"></li>
+                                    </ol>
+
+                                    <!-- Wrapper for slides -->
+                                    <div class="carousel-inner">
+                                        <div class="item active">
+                                            <img src="PM/PM6/09.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                        </div>
+                                        
+                                        <div class="item ">
+                                            <img src="PM/PM6/902.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                        </div>
+                                        
+                                        <div class="item ">
+                                            <img src="PM/PM6/903.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                        </div>
+                                        
+                                        <div class="item ">
+                                            <img src="PM/PM6/904.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                        </div>
+                                    </div>
+
+                                    <!-- Left and right controls -->
+                                    <a class="left carousel-control" href="#myCarousel10" data-slide="prev">
+                                        <span class="glyphicon glyphicon-chevron-left"></span>
+                                        <span class="sr-only">Previous</span>
+                                    </a>
+                                    <a class="right carousel-control" href="#myCarousel10" data-slide="next">
+                                        <span class="glyphicon glyphicon-chevron-right"></span>
+                                        <span class="sr-only">Next</span>
+                                    </a>
+                                </div>
+                                <!----------->
+                            </div>
+                        </div>
+
+                    </div>
+                    
+                     
+                    
+                    
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
@@ -1125,6 +1218,7 @@ div {
                                         <li data-target="#myCarousel9" data-slide-to="0" class="active"></li>
                                         <li data-target="#myCarousel9" data-slide-to="1"></li>
                                         <li data-target="#myCarousel9" data-slide-to="2"></li>
+                                        <li data-target="#myCarousel9" data-slide-to="3"></li>
                                     </ol>
 
                                     <!-- Wrapper for slides -->
@@ -1139,6 +1233,10 @@ div {
                                         
                                         <div class="item ">
                                             <img src="PM/PM7/703.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                        </div>
+                                        
+                                        <div class="item ">
+                                            <img src="PM/PM7/704.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                     </div>
 
@@ -1173,6 +1271,7 @@ div {
                                         <li data-target="#myCarousel12" data-slide-to="0" class="active"></li>
                                         <li data-target="#myCarousel12" data-slide-to="1"></li>
                                         <li data-target="#myCarousel12" data-slide-to="2"></li>
+                                        <li data-target="#myCarousel12" data-slide-to="3"></li>
                                     </ol>
 
                                     <!-- Wrapper for slides -->
@@ -1187,6 +1286,10 @@ div {
                                         
                                         <div class="item ">
                                             <img src="PM/PM8/803.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                        </div>
+                                        
+                                        <div class="item ">
+                                            <img src="PM/PM8/804.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                     </div>
 
