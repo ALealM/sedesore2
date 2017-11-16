@@ -1138,19 +1138,19 @@ div {
                                     <!-- Wrapper for slides -->
                                     <div class="carousel-inner">
                                         <div class="item active">
-                                            <img src="PM/PM6/09.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                            <img src="PM/PM9/09.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                         
                                         <div class="item ">
-                                            <img src="PM/PM6/902.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                            <img src="PM/PM9/902.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                         
                                         <div class="item ">
-                                            <img src="PM/PM6/903.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                            <img src="PM/PM9/903.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                         
                                         <div class="item ">
-                                            <img src="PM/PM6/904.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
+                                            <img src="PM/PM9/904.png" alt="" class="img-responsive" style="width:80%; height: auto; margin: auto auto;">
                                         </div>
                                     </div>
 
